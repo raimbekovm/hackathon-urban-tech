@@ -1,0 +1,13 @@
+node_modules/
+__pycache__/
+*.pyc
+.env
+runs/
+dataset/
+*.pt
+.DS_Store
+.idea/
+venv/
+*.egg-info/
+dist/
+build/
