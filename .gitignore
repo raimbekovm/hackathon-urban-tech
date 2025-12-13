@@ -11,3 +11,18 @@ venv/
 *.egg-info/
 dist/
 build/
+
+# ML data (images are too large for git)
+ml/data/bishkek_roads/*.png
+ml/data/bishkek_roads/*.jpg
+ml/data/bishkek_roads/*.jpeg
+ml/data/raw/
+ml/data/processed/
+
+# YOLOv8 downloads
+yolov8n.pt
+
+# Generated outputs (recreated by ML pipeline)
+ml/output/*.csv
+ml/output/*.json
+ml/visualizations/
