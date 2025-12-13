@@ -54,24 +54,24 @@ async function loadData() {
         const timestamp = new Date().getTime();
 
         // Load defects
-        const defectsResponse = await fetch(`../ml/output/defects.csv?t=${timestamp}`);
+        const defectsResponse = await fetch(`./data/defects.csv?t=${timestamp}`);
         const defectsText = await defectsResponse.text();
         defectsData = parseCSV(defectsText);
         console.log('Defects loaded:', defectsData.length, defectsData[0]);
 
         // Load worst roads
-        const worstRoadsResponse = await fetch(`../ml/output/worst_roads.json?t=${timestamp}`);
+        const worstRoadsResponse = await fetch(`./data/worst_roads.json?t=${timestamp}`);
         const worstRoadsJson = await worstRoadsResponse.json();
         worstRoadsData = worstRoadsJson.worst_roads || worstRoadsJson;
         console.log('Worst roads loaded:', worstRoadsData.length, worstRoadsData[0]);
 
         // Load stats
-        const statsResponse = await fetch(`../ml/output/stats.json?t=${timestamp}`);
+        const statsResponse = await fetch(`./data/stats.json?t=${timestamp}`);
         statsData = await statsResponse.json();
         console.log('Stats loaded:', statsData);
 
         // Load heatmap
-        const heatmapResponse = await fetch(`../ml/output/heatmap.json?t=${timestamp}`);
+        const heatmapResponse = await fetch(`./data/heatmap.json?t=${timestamp}`);
         const heatmapJson = await heatmapResponse.json();
         const heatmapData = heatmapJson.heatmap_data || heatmapJson;
         console.log('Heatmap loaded:', heatmapData.length);

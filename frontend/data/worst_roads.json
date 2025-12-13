@@ -1,0 +1,104 @@
+{
+  "worst_roads": [
+    {
+      "rank": 1,
+      "street_name": "Абдыкадырова улица",
+      "district": "Рабочий городок ж/м",
+      "defect_count": 13,
+      "avg_severity": 6.8,
+      "priority_score": 8.1,
+      "lat": 42.860226,
+      "lon": 74.572696
+    },
+    {
+      "rank": 2,
+      "street_name": "Льва Толстого улица",
+      "district": "Ленинский район",
+      "defect_count": 10,
+      "avg_severity": 6.7,
+      "priority_score": 7.1,
+      "lat": 42.865482,
+      "lon": 74.58317
+    },
+    {
+      "rank": 3,
+      "street_name": "Жибек Жолу проспект",
+      "district": "Первомайский район",
+      "defect_count": 8,
+      "avg_severity": 7.0,
+      "priority_score": 6.7,
+      "lat": 42.884387,
+      "lon": 74.583324
+    },
+    {
+      "rank": 4,
+      "street_name": "Волжский переулок",
+      "district": "Рабочий городок ж/м",
+      "defect_count": 8,
+      "avg_severity": 6.5,
+      "priority_score": 6.4,
+      "lat": 42.855479,
+      "lon": 74.562064
+    },
+    {
+      "rank": 5,
+      "street_name": "Уметалиева Темиркула улица",
+      "district": "Первомайский район",
+      "defect_count": 8,
+      "avg_severity": 6.4,
+      "priority_score": 6.3,
+      "lat": 42.885489,
+      "lon": 74.582383
+    },
+    {
+      "rank": 6,
+      "street_name": "Ала-Арчинская улица",
+      "district": "Первомайский район",
+      "defect_count": 6,
+      "avg_severity": 7.0,
+      "priority_score": 6.0,
+      "lat": 42.883556,
+      "lon": 74.573433
+    },
+    {
+      "rank": 7,
+      "street_name": "Александровская улица (до 1920)",
+      "district": "Ленинский район",
+      "defect_count": 4,
+      "avg_severity": 8.0,
+      "priority_score": 6.0,
+      "lat": 42.858977,
+      "lon": 74.583682
+    },
+    {
+      "rank": 8,
+      "street_name": "Чокморова Суймонкула улица",
+      "district": "Ленинский район",
+      "defect_count": 5,
+      "avg_severity": 7.2,
+      "priority_score": 5.8,
+      "lat": 42.869137,
+      "lon": 74.576189
+    },
+    {
+      "rank": 9,
+      "street_name": "Матыева Эркинбека улица",
+      "district": "Ленинский район",
+      "defect_count": 1,
+      "avg_severity": 9.0,
+      "priority_score": 5.7,
+      "lat": 42.860277,
+      "lon": 74.576113
+    },
+    {
+      "rank": 10,
+      "street_name": "Шевченко улица",
+      "district": "Ленинский район",
+      "defect_count": 3,
+      "avg_severity": 7.9,
+      "priority_score": 5.7,
+      "lat": 42.883727,
+      "lon": 74.584139
+    }
+  ]
+}
