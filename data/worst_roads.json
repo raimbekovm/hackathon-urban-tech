@@ -2,103 +2,563 @@
   "worst_roads": [
     {
       "rank": 1,
-      "street_name": "Абдыкадырова улица",
-      "district": "Рабочий городок ж/м",
-      "defect_count": 13,
-      "avg_severity": 6.8,
-      "priority_score": 8.1,
-      "lat": 42.860226,
-      "lon": 74.572696
+      "street_name": "Manas Avenue",
+      "district": "Leninsky",
+      "defect_count": 47,
+      "avg_severity": 3.9,
+      "quality_index": 43,
+      "priority_score": 5.4,
+      "repair_cost": 235000,
+      "defects": [
+        {
+          "type": "pothole",
+          "count": 14
+        },
+        {
+          "type": "longitudinal_crack",
+          "count": 10
+        },
+        {
+          "type": "transverse_crack",
+          "count": 10
+        },
+        {
+          "type": "alligator_crack",
+          "count": 13
+        }
+      ]
     },
     {
       "rank": 2,
-      "street_name": "Льва Толстого улица",
-      "district": "Ленинский район",
-      "defect_count": 10,
-      "avg_severity": 6.7,
-      "priority_score": 7.1,
-      "lat": 42.865482,
-      "lon": 74.58317
+      "street_name": "Chui Avenue",
+      "district": "Sverdlovsky",
+      "defect_count": 48,
+      "avg_severity": 3.8,
+      "quality_index": 35,
+      "priority_score": 5.3,
+      "repair_cost": 2490000,
+      "defects": [
+        {
+          "type": "pothole",
+          "count": 15
+        },
+        {
+          "type": "longitudinal_crack",
+          "count": 10
+        },
+        {
+          "type": "transverse_crack",
+          "count": 13
+        },
+        {
+          "type": "alligator_crack",
+          "count": 10
+        }
+      ]
     },
     {
       "rank": 3,
-      "street_name": "Жибек Жолу проспект",
-      "district": "Первомайский район",
-      "defect_count": 8,
-      "avg_severity": 7.0,
-      "priority_score": 6.7,
-      "lat": 42.884387,
-      "lon": 74.583324
+      "street_name": "Erkindik Boulevard",
+      "district": "Oktyabrsky",
+      "defect_count": 26,
+      "avg_severity": 4.0,
+      "quality_index": 50,
+      "priority_score": 4.4,
+      "repair_cost": 390000,
+      "defects": [
+        {
+          "type": "pothole",
+          "count": 8
+        },
+        {
+          "type": "longitudinal_crack",
+          "count": 7
+        },
+        {
+          "type": "transverse_crack",
+          "count": 6
+        },
+        {
+          "type": "alligator_crack",
+          "count": 5
+        }
+      ]
     },
     {
       "rank": 4,
-      "street_name": "Волжский переулок",
-      "district": "Рабочий городок ж/м",
-      "defect_count": 8,
-      "avg_severity": 6.5,
-      "priority_score": 6.4,
-      "lat": 42.855479,
-      "lon": 74.562064
+      "street_name": "Ibraimov Street",
+      "district": "Pervomaysky",
+      "defect_count": 33,
+      "avg_severity": 3.9,
+      "quality_index": 44,
+      "priority_score": 4.3,
+      "repair_cost": 165000,
+      "defects": [
+        {
+          "type": "pothole",
+          "count": 12
+        },
+        {
+          "type": "longitudinal_crack",
+          "count": 5
+        },
+        {
+          "type": "transverse_crack",
+          "count": 6
+        },
+        {
+          "type": "alligator_crack",
+          "count": 10
+        }
+      ]
     },
     {
       "rank": 5,
-      "street_name": "Уметалиева Темиркула улица",
-      "district": "Первомайский район",
-      "defect_count": 8,
-      "avg_severity": 6.4,
-      "priority_score": 6.3,
-      "lat": 42.885489,
-      "lon": 74.582383
+      "street_name": "Frunze Street",
+      "district": "Leninsky",
+      "defect_count": 29,
+      "avg_severity": 3.8,
+      "quality_index": 64,
+      "priority_score": 4.2,
+      "repair_cost": 145000,
+      "defects": [
+        {
+          "type": "pothole",
+          "count": 5
+        },
+        {
+          "type": "longitudinal_crack",
+          "count": 7
+        },
+        {
+          "type": "transverse_crack",
+          "count": 6
+        },
+        {
+          "type": "alligator_crack",
+          "count": 11
+        }
+      ]
     },
     {
       "rank": 6,
-      "street_name": "Ала-Арчинская улица",
-      "district": "Первомайский район",
-      "defect_count": 6,
-      "avg_severity": 7.0,
-      "priority_score": 6.0,
-      "lat": 42.883556,
-      "lon": 74.573433
+      "street_name": "Moskovskaya Street",
+      "district": "Oktyabrsky",
+      "defect_count": 24,
+      "avg_severity": 3.9,
+      "quality_index": 66,
+      "priority_score": 4.1,
+      "repair_cost": 120000,
+      "defects": [
+        {
+          "type": "pothole",
+          "count": 8
+        },
+        {
+          "type": "longitudinal_crack",
+          "count": 4
+        },
+        {
+          "type": "transverse_crack",
+          "count": 6
+        },
+        {
+          "type": "alligator_crack",
+          "count": 6
+        }
+      ]
     },
     {
       "rank": 7,
-      "street_name": "Александровская улица (до 1920)",
-      "district": "Ленинский район",
-      "defect_count": 4,
-      "avg_severity": 8.0,
-      "priority_score": 6.0,
-      "lat": 42.858977,
-      "lon": 74.583682
+      "street_name": "Bokonbaev Street",
+      "district": "Pervomaysky",
+      "defect_count": 23,
+      "avg_severity": 3.5,
+      "quality_index": 65,
+      "priority_score": 4.0,
+      "repair_cost": 115000,
+      "defects": [
+        {
+          "type": "pothole",
+          "count": 4
+        },
+        {
+          "type": "longitudinal_crack",
+          "count": 9
+        },
+        {
+          "type": "transverse_crack",
+          "count": 5
+        },
+        {
+          "type": "alligator_crack",
+          "count": 5
+        }
+      ]
     },
     {
       "rank": 8,
-      "street_name": "Чокморова Суймонкула улица",
-      "district": "Ленинский район",
-      "defect_count": 5,
-      "avg_severity": 7.2,
-      "priority_score": 5.8,
-      "lat": 42.869137,
-      "lon": 74.576189
+      "street_name": "Abdrakhmanov Street",
+      "district": "Sverdlovsky",
+      "defect_count": 22,
+      "avg_severity": 3.7,
+      "quality_index": 62,
+      "priority_score": 3.9,
+      "repair_cost": 110000,
+      "defects": [
+        {
+          "type": "pothole",
+          "count": 5
+        },
+        {
+          "type": "longitudinal_crack",
+          "count": 6
+        },
+        {
+          "type": "transverse_crack",
+          "count": 4
+        },
+        {
+          "type": "alligator_crack",
+          "count": 7
+        }
+      ]
     },
     {
       "rank": 9,
-      "street_name": "Матыева Эркинбека улица",
-      "district": "Ленинский район",
-      "defect_count": 1,
-      "avg_severity": 9.0,
-      "priority_score": 5.7,
-      "lat": 42.860277,
-      "lon": 74.576113
+      "street_name": "Toktogul Street",
+      "district": "Pervomaysky",
+      "defect_count": 22,
+      "avg_severity": 3.9,
+      "quality_index": 53,
+      "priority_score": 3.6,
+      "repair_cost": 110000,
+      "defects": [
+        {
+          "type": "pothole",
+          "count": 3
+        },
+        {
+          "type": "longitudinal_crack",
+          "count": 6
+        },
+        {
+          "type": "transverse_crack",
+          "count": 7
+        },
+        {
+          "type": "alligator_crack",
+          "count": 6
+        }
+      ]
     },
     {
       "rank": 10,
-      "street_name": "Шевченко улица",
-      "district": "Ленинский район",
-      "defect_count": 3,
-      "avg_severity": 7.9,
-      "priority_score": 5.7,
-      "lat": 42.883727,
-      "lon": 74.584139
+      "street_name": "Sovietskaya Street",
+      "district": "Leninsky",
+      "defect_count": 25,
+      "avg_severity": 3.7,
+      "quality_index": 44,
+      "priority_score": 3.6,
+      "repair_cost": 125000,
+      "defects": [
+        {
+          "type": "pothole",
+          "count": 4
+        },
+        {
+          "type": "longitudinal_crack",
+          "count": 5
+        },
+        {
+          "type": "transverse_crack",
+          "count": 6
+        },
+        {
+          "type": "alligator_crack",
+          "count": 10
+        }
+      ]
+    },
+    {
+      "rank": 11,
+      "street_name": "Jibek Jolu Street",
+      "district": "Oktyabrsky",
+      "defect_count": 23,
+      "avg_severity": 3.8,
+      "quality_index": 59,
+      "priority_score": 3.6,
+      "repair_cost": 115000,
+      "defects": [
+        {
+          "type": "pothole",
+          "count": 4
+        },
+        {
+          "type": "longitudinal_crack",
+          "count": 7
+        },
+        {
+          "type": "transverse_crack",
+          "count": 3
+        },
+        {
+          "type": "alligator_crack",
+          "count": 9
+        }
+      ]
+    },
+    {
+      "rank": 12,
+      "street_name": "Akhunbaev Street",
+      "district": "Sverdlovsky",
+      "defect_count": 20,
+      "avg_severity": 3.8,
+      "quality_index": 65,
+      "priority_score": 3.5,
+      "repair_cost": 100000,
+      "defects": [
+        {
+          "type": "pothole",
+          "count": 6
+        },
+        {
+          "type": "longitudinal_crack",
+          "count": 7
+        },
+        {
+          "type": "transverse_crack",
+          "count": 3
+        },
+        {
+          "type": "alligator_crack",
+          "count": 4
+        }
+      ]
+    },
+    {
+      "rank": 13,
+      "street_name": "Logvinenko Street",
+      "district": "Sverdlovsky",
+      "defect_count": 21,
+      "avg_severity": 3.7,
+      "quality_index": 54,
+      "priority_score": 3.5,
+      "repair_cost": 105000,
+      "defects": [
+        {
+          "type": "pothole",
+          "count": 4
+        },
+        {
+          "type": "longitudinal_crack",
+          "count": 7
+        },
+        {
+          "type": "transverse_crack",
+          "count": 4
+        },
+        {
+          "type": "alligator_crack",
+          "count": 6
+        }
+      ]
+    },
+    {
+      "rank": 14,
+      "street_name": "Panfilov Street",
+      "district": "Sverdlovsky",
+      "defect_count": 23,
+      "avg_severity": 3.5,
+      "quality_index": 58,
+      "priority_score": 3.5,
+      "repair_cost": 115000,
+      "defects": [
+        {
+          "type": "pothole",
+          "count": 6
+        },
+        {
+          "type": "longitudinal_crack",
+          "count": 5
+        },
+        {
+          "type": "transverse_crack",
+          "count": 3
+        },
+        {
+          "type": "alligator_crack",
+          "count": 9
+        }
+      ]
+    },
+    {
+      "rank": 15,
+      "street_name": "Razzakov Street",
+      "district": "Pervomaysky",
+      "defect_count": 16,
+      "avg_severity": 3.7,
+      "quality_index": 64,
+      "priority_score": 3.3,
+      "repair_cost": 80000,
+      "defects": [
+        {
+          "type": "pothole",
+          "count": 5
+        },
+        {
+          "type": "longitudinal_crack",
+          "count": 4
+        },
+        {
+          "type": "transverse_crack",
+          "count": 2
+        },
+        {
+          "type": "alligator_crack",
+          "count": 5
+        }
+      ]
+    },
+    {
+      "rank": 16,
+      "street_name": "Kievskaya Street",
+      "district": "Leninsky",
+      "defect_count": 11,
+      "avg_severity": 3.7,
+      "quality_index": 75,
+      "priority_score": 3.2,
+      "repair_cost": 55000,
+      "defects": [
+        {
+          "type": "pothole",
+          "count": 3
+        },
+        {
+          "type": "longitudinal_crack",
+          "count": 1
+        },
+        {
+          "type": "transverse_crack",
+          "count": 5
+        },
+        {
+          "type": "alligator_crack",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "rank": 17,
+      "street_name": "Isanov Street",
+      "district": "Oktyabrsky",
+      "defect_count": 20,
+      "avg_severity": 3.8,
+      "quality_index": 54,
+      "priority_score": 3.1,
+      "repair_cost": 100000,
+      "defects": [
+        {
+          "type": "pothole",
+          "count": 5
+        },
+        {
+          "type": "longitudinal_crack",
+          "count": 5
+        },
+        {
+          "type": "transverse_crack",
+          "count": 1
+        },
+        {
+          "type": "alligator_crack",
+          "count": 9
+        }
+      ]
+    },
+    {
+      "rank": 18,
+      "street_name": "Gorky Street",
+      "district": "Sverdlovsky",
+      "defect_count": 23,
+      "avg_severity": 3.5,
+      "quality_index": 45,
+      "priority_score": 3.0,
+      "repair_cost": 115000,
+      "defects": [
+        {
+          "type": "pothole",
+          "count": 2
+        },
+        {
+          "type": "longitudinal_crack",
+          "count": 8
+        },
+        {
+          "type": "transverse_crack",
+          "count": 6
+        },
+        {
+          "type": "alligator_crack",
+          "count": 7
+        }
+      ]
+    },
+    {
+      "rank": 19,
+      "street_name": "Tynystanov Street",
+      "district": "Leninsky",
+      "defect_count": 13,
+      "avg_severity": 3.5,
+      "quality_index": 63,
+      "priority_score": 2.7,
+      "repair_cost": 65000,
+      "defects": [
+        {
+          "type": "pothole",
+          "count": 2
+        },
+        {
+          "type": "longitudinal_crack",
+          "count": 5
+        },
+        {
+          "type": "transverse_crack",
+          "count": 1
+        },
+        {
+          "type": "alligator_crack",
+          "count": 5
+        }
+      ]
+    },
+    {
+      "rank": 20,
+      "street_name": "Togolok Moldo Street",
+      "district": "Pervomaysky",
+      "defect_count": 11,
+      "avg_severity": 3.3,
+      "quality_index": 71,
+      "priority_score": 2.6,
+      "repair_cost": 55000,
+      "defects": [
+        {
+          "type": "pothole",
+          "count": 3
+        },
+        {
+          "type": "longitudinal_crack",
+          "count": 6
+        },
+        {
+          "type": "transverse_crack",
+          "count": 0
+        },
+        {
+          "type": "alligator_crack",
+          "count": 2
+        }
+      ]
     }
   ]
 }

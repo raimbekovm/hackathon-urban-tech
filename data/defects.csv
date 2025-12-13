@@ -1,139 +1,481 @@
 lat,lon,defect_type,severity,confidence,image_path,street_name,district
-42.887674,74.589408,pothole,4.3,0.9,Screenshot 2025-12-12 at 21.58.24.png,Куренкеева Мураталы улица,Первомайский район
-42.865482,74.58317,longitudinal_crack,9.2,0.82,Screenshot 2025-12-12 at 21.37.18.png,Льва Толстого улица,Ленинский район
-42.865396,74.583047,pothole,6.6,0.84,Screenshot 2025-12-12 at 21.37.18.png,Льва Толстого улица,Ленинский район
-42.864052,74.589118,longitudinal_crack,8.0,0.87,Screenshot 2025-12-12 at 21.44.09.png,Льва Толстого улица,Первомайский район
-42.864134,74.589246,transverse_crack,9.3,0.78,Screenshot 2025-12-12 at 21.44.09.png,Льва Толстого улица,Первомайский район
-42.864125,74.589093,longitudinal_crack,5.0,0.74,Screenshot 2025-12-12 at 21.44.09.png,Льва Толстого улица,Первомайский район
-42.860176,74.579185,alligator_crack,6.5,0.75,Screenshot 2025-12-12 at 21.57.49.png,Охотный переулок,Ленинский район
-42.860292,74.57934,transverse_crack,6.9,0.93,Screenshot 2025-12-12 at 21.57.49.png,8-я линия улица,Ленинский район
-42.86012,74.579295,transverse_crack,4.3,0.88,Screenshot 2025-12-12 at 21.57.49.png,Охотный переулок,Ленинский район
-42.860226,74.572696,alligator_crack,8.4,0.72,Screenshot 2025-12-12 at 22.12.50.png,Абдыкадырова улица,Рабочий городок ж/м
-42.860311,74.572811,longitudinal_crack,8.4,0.65,Screenshot 2025-12-12 at 22.12.50.png,Абдыкадырова улица,Рабочий городок ж/м
-42.865289,74.585811,alligator_crack,4.7,0.67,Screenshot 2025-12-12 at 21.45.48.png,Льва Толстого улица,Ленинский район
-42.865327,74.585885,longitudinal_crack,8.8,0.89,Screenshot 2025-12-12 at 21.45.48.png,Льва Толстого улица,Ленинский район
-42.865346,74.585896,alligator_crack,4.5,0.74,Screenshot 2025-12-12 at 21.45.48.png,Льва Толстого улица,Ленинский район
-42.865199,74.585817,pothole,5.2,0.72,Screenshot 2025-12-12 at 21.45.48.png,Льва Толстого улица,Ленинский район
-42.865248,74.585724,alligator_crack,5.7,0.77,Screenshot 2025-12-12 at 21.45.48.png,Льва Толстого улица,Ленинский район
-42.870573,74.565438,alligator_crack,4.3,0.73,Screenshot 2025-12-12 at 22.02.45.png,Московская улица,Ленинский район
-42.870599,74.565443,transverse_crack,4.6,0.88,Screenshot 2025-12-12 at 22.02.45.png,Московская улица,Ленинский район
-42.883556,74.573433,transverse_crack,9.1,0.65,Screenshot 2025-12-12 at 22.11.11.png,Ала-Арчинская улица,Первомайский район
-42.883414,74.573412,transverse_crack,8.0,0.78,Screenshot 2025-12-12 at 22.11.11.png,Ала-Арчинская улица,Первомайский район
-42.883543,74.573503,alligator_crack,6.1,0.71,Screenshot 2025-12-12 at 22.11.11.png,Ала-Арчинская улица,Первомайский район
-42.883466,74.573454,alligator_crack,8.1,0.75,Screenshot 2025-12-12 at 22.11.11.png,Ала-Арчинская улица,Первомайский район
-42.883407,74.573379,alligator_crack,4.5,0.85,Screenshot 2025-12-12 at 22.11.11.png,Ала-Арчинская улица,Первомайский район
-42.889248,74.570252,pothole,9.1,0.92,Screenshot 2025-12-12 at 21.52.55.png,Каспийская улица,Первомайский район
-42.88927,74.570269,alligator_crack,5.2,0.88,Screenshot 2025-12-12 at 21.52.55.png,Каспийская улица,Первомайский район
-42.884387,74.583324,pothole,7.6,0.89,Screenshot 2025-12-12 at 22.10.52.png,Жибек Жолу проспект,Первомайский район
-42.856927,74.556989,pothole,8.7,0.94,Screenshot 2025-12-12 at 21.58.37.png,Пишпек,Пишпек
-42.878814,74.560666,longitudinal_crack,4.2,0.76,Screenshot 2025-12-12 at 21.45.01.png,проспект Дэн Сяопина,Ленинский район
-42.878816,74.560663,pothole,6.2,0.73,Screenshot 2025-12-12 at 21.45.01.png,проспект Дэн Сяопина,Ленинский район
-42.878886,74.560552,transverse_crack,5.4,0.77,Screenshot 2025-12-12 at 21.45.01.png,проспект Дэн Сяопина,Ленинский район
-42.878848,74.560582,longitudinal_crack,9.2,0.67,Screenshot 2025-12-12 at 21.45.01.png,проспект Дэн Сяопина,Ленинский район
-42.884379,74.553836,alligator_crack,6.7,0.92,Screenshot 2025-12-12 at 22.00.19.png,Профсоюзная улица,Газ городок
-42.884225,74.553848,pothole,8.9,0.84,Screenshot 2025-12-12 at 22.00.19.png,Профсоюзная улица,Газ городок
-42.883518,74.552938,alligator_crack,7.3,0.82,Screenshot 2025-12-12 at 21.55.38.png,Ленская улица,Газ городок
-42.883449,74.552991,alligator_crack,5.6,0.93,Screenshot 2025-12-12 at 21.55.38.png,Ленская улица,Газ городок
-42.883489,74.552927,longitudinal_crack,8.5,0.87,Screenshot 2025-12-12 at 21.55.38.png,Ленская улица,Газ городок
-42.88342,74.553074,longitudinal_crack,4.9,0.75,Screenshot 2025-12-12 at 21.55.38.png,Ленская улица,Газ городок
-42.883406,74.553012,longitudinal_crack,4.4,0.66,Screenshot 2025-12-12 at 21.55.38.png,Ленская улица,Газ городок
-42.884461,74.581491,longitudinal_crack,5.4,0.79,Screenshot 2025-12-12 at 22.12.25.png,Жибек Жолу проспект,Первомайский район
-42.884638,74.581458,pothole,8.4,0.79,Screenshot 2025-12-12 at 22.12.25.png,Журнальная улица,Колме
-42.884455,74.581471,longitudinal_crack,5.4,0.8,Screenshot 2025-12-12 at 22.12.25.png,Жибек Жолу проспект,Первомайский район
-42.88446,74.581535,transverse_crack,8.2,0.74,Screenshot 2025-12-12 at 22.12.25.png,Жибек Жолу проспект,Первомайский район
-42.867028,74.57155,alligator_crack,8.4,0.91,Screenshot 2025-12-12 at 21.56.54.png,Строящаяся дорога,Ленинский район
-42.867121,74.571589,transverse_crack,7.0,0.86,Screenshot 2025-12-12 at 21.56.54.png,Строящаяся дорога,Ленинский район
-42.867179,74.571522,longitudinal_crack,4.7,0.95,Screenshot 2025-12-12 at 21.56.54.png,Строящаяся дорога,Ленинский район
-42.867076,74.571635,transverse_crack,5.7,0.71,Screenshot 2025-12-12 at 21.56.54.png,Строящаяся дорога,Ленинский район
-42.857497,74.584966,alligator_crack,7.1,0.93,Screenshot 2025-12-12 at 22.04.42.png,Unknown Street,Ленинский район
-42.857336,74.584982,longitudinal_crack,5.8,0.81,Screenshot 2025-12-12 at 22.04.42.png,Unknown Street,Ленинский район
-42.85747,74.58493,pothole,6.1,0.65,Screenshot 2025-12-12 at 22.04.42.png,Unknown Street,Ленинский район
-42.854722,74.562313,pothole,7.3,0.76,Screenshot 2025-12-12 at 21.57.02.png,Лазурный переулок,Рабочий городок ж/м
-42.854635,74.562197,longitudinal_crack,5.6,0.94,Screenshot 2025-12-12 at 21.57.02.png,Лазурный переулок,Рабочий городок ж/м
-42.860277,74.576113,transverse_crack,9.0,0.72,Screenshot 2025-12-12 at 22.10.22.png,Матыева Эркинбека улица,Ленинский район
-42.872549,74.557833,longitudinal_crack,7.5,0.85,Screenshot 2025-12-12 at 21.52.23.png,Димитрова улица,Ленинский район
-42.872446,74.557868,transverse_crack,8.7,0.89,Screenshot 2025-12-12 at 21.52.23.png,Димитрова улица,Ленинский район
-42.872471,74.557834,transverse_crack,6.8,0.65,Screenshot 2025-12-12 at 21.52.23.png,Димитрова улица,Ленинский район
-42.872436,74.557826,longitudinal_crack,4.3,0.91,Screenshot 2025-12-12 at 21.52.23.png,Димитрова улица,Ленинский район
-42.872466,74.557909,alligator_crack,5.3,0.74,Screenshot 2025-12-12 at 21.52.23.png,Димитрова улица,Ленинский район
-42.871798,74.585633,longitudinal_crack,8.9,0.69,Screenshot 2025-12-12 at 21.50.32.png,Турусбекова улица,Ленинский район
-42.87183,74.585576,pothole,5.5,0.85,Screenshot 2025-12-12 at 21.50.32.png,Турусбекова улица,Ленинский район
-42.871767,74.58567,transverse_crack,6.8,0.74,Screenshot 2025-12-12 at 21.50.32.png,Табышалиева улица,Ленинский район
-42.871898,74.58572,alligator_crack,4.4,0.73,Screenshot 2025-12-12 at 21.50.32.png,Турусбекова улица,Ленинский район
-42.889228,74.585629,longitudinal_crack,4.8,0.66,Screenshot 2025-12-12 at 22.08.50.png,Кудрука улица,Первомайский район
-42.884252,74.582547,longitudinal_crack,8.5,0.66,Screenshot 2025-12-12 at 21.47.15.png,Жибек Жолу проспект,Ленинский район
-42.88432,74.582558,transverse_crack,6.5,0.68,Screenshot 2025-12-12 at 21.47.15.png,Жибек Жолу проспект,Ленинский район
-42.884141,74.582549,alligator_crack,9.3,0.76,Screenshot 2025-12-12 at 21.47.15.png,Жибек Жолу проспект,Ленинский район
-42.884188,74.582502,alligator_crack,5.4,0.89,Screenshot 2025-12-12 at 21.47.15.png,Жибек Жолу проспект,Первомайский район
-42.880282,74.560479,pothole,8.0,0.76,Screenshot 2025-12-12 at 21.56.48.png,Фучика Юлиуса улица,Газ городок
-42.880346,74.560577,longitudinal_crack,6.7,0.8,Screenshot 2025-12-12 at 21.56.48.png,Фучика Юлиуса улица,Газ городок
-42.885489,74.582383,longitudinal_crack,7.2,0.74,Screenshot 2025-12-12 at 22.02.15.png,Уметалиева Темиркула улица,Первомайский район
-42.885475,74.58245,longitudinal_crack,8.8,0.77,Screenshot 2025-12-12 at 22.02.15.png,Уметалиева Темиркула улица,Первомайский район
-42.885592,74.582379,alligator_crack,7.7,0.79,Screenshot 2025-12-12 at 22.02.15.png,Уметалиева Темиркула улица,Первомайский район
-42.885655,74.582392,alligator_crack,4.0,0.68,Screenshot 2025-12-12 at 22.02.15.png,Мичурина Ивана улица,Первомайский район
-42.885478,74.582373,longitudinal_crack,6.1,0.92,Screenshot 2025-12-12 at 22.02.15.png,Уметалиева Темиркула улица,Первомайский район
-42.891765,74.584473,alligator_crack,7.6,0.94,Screenshot 2025-12-12 at 22.02.00.png,Джамбула улица,Колме
-42.891752,74.584529,longitudinal_crack,4.3,0.71,Screenshot 2025-12-12 at 22.02.00.png,Джамбула улица,Колме
-42.891831,74.584589,alligator_crack,5.5,0.79,Screenshot 2025-12-12 at 22.02.00.png,Джамбула улица,Колме
-42.891805,74.584504,transverse_crack,7.1,0.7,Screenshot 2025-12-12 at 22.02.00.png,Джамбула улица,Колме
-42.888772,74.558037,alligator_crack,6.3,0.9,Screenshot 2025-12-12 at 22.12.11.png,Азовская улица,Газ городок
-42.888687,74.557962,alligator_crack,7.8,0.77,Screenshot 2025-12-12 at 22.12.11.png,Азовская улица,Газ городок
-42.855479,74.562064,alligator_crack,4.9,0.73,Screenshot 2025-12-12 at 22.01.47.png,Волжский переулок,Рабочий городок ж/м
-42.855443,74.562066,transverse_crack,6.8,0.78,Screenshot 2025-12-12 at 22.01.47.png,Волжский переулок,Рабочий городок ж/м
-42.85545,74.562154,alligator_crack,7.5,0.76,Screenshot 2025-12-12 at 22.01.47.png,Волжский переулок,Рабочий городок ж/м
-42.855334,74.562045,longitudinal_crack,7.3,0.91,Screenshot 2025-12-12 at 22.01.47.png,Волжский переулок,Рабочий городок ж/м
-42.894344,74.559004,pothole,7.7,0.75,Screenshot 2025-12-12 at 22.11.42.png,Минская улица,Колме
-42.886812,74.567242,alligator_crack,4.2,0.67,Screenshot 2025-12-12 at 21.53.56.png,2-я Черепки улица,Первомайский район
-42.886974,74.567355,transverse_crack,5.5,0.74,Screenshot 2025-12-12 at 21.53.56.png,2-я Черепки улица,Первомайский район
-42.886941,74.567177,transverse_crack,8.7,0.83,Screenshot 2025-12-12 at 21.53.56.png,2-я Черепки улица,Первомайский район
-42.886827,74.56722,alligator_crack,5.0,0.68,Screenshot 2025-12-12 at 21.53.56.png,2-я Черепки улица,Первомайский район
-42.893939,74.580765,transverse_crack,5.8,0.79,Screenshot 2025-12-12 at 21.59.36.png,Осипенко улица,Колме
-42.893957,74.58079,pothole,6.2,0.65,Screenshot 2025-12-12 at 21.59.36.png,Осипенко улица,Колме
-42.893974,74.580698,longitudinal_crack,5.6,0.75,Screenshot 2025-12-12 at 21.59.36.png,Осипенко улица,Колме
-42.869137,74.576189,pothole,8.4,0.89,Screenshot 2025-12-12 at 21.50.11.png,Чокморова Суймонкула улица,Ленинский район
-42.869057,74.576235,transverse_crack,6.7,0.85,Screenshot 2025-12-12 at 21.50.11.png,Чокморова Суймонкула улица,Ленинский район
-42.869133,74.576249,pothole,6.6,0.85,Screenshot 2025-12-12 at 21.50.11.png,Чокморова Суймонкула улица,Ленинский район
-42.869241,74.576156,alligator_crack,9.3,0.9,Screenshot 2025-12-12 at 21.50.11.png,Чокморова Суймонкула улица,Ленинский район
-42.869092,74.576124,alligator_crack,4.9,0.75,Screenshot 2025-12-12 at 21.50.11.png,Чокморова Суймонкула улица,Ленинский район
-42.85616,74.580782,transverse_crack,7.2,0.68,Screenshot 2025-12-12 at 22.08.17.png,Бронированная улица,Ленинский район
-42.856309,74.580819,alligator_crack,4.3,0.7,Screenshot 2025-12-12 at 22.08.17.png,Бронированная улица,Ленинский район
-42.856273,74.580817,pothole,4.8,0.78,Screenshot 2025-12-12 at 22.08.17.png,Бронированная улица,Ленинский район
-42.887687,74.557766,longitudinal_crack,5.0,0.88,Screenshot 2025-12-12 at 22.11.22.png,Кудрука улица,Газ городок
-42.887651,74.557642,longitudinal_crack,6.9,0.77,Screenshot 2025-12-12 at 22.11.22.png,Лесная улица,Газ городок
-42.883106,74.562941,pothole,6.4,0.87,Screenshot 2025-12-12 at 21.43.37.png,Жумабека улица,Первомайский район
-42.883123,74.56288,pothole,5.3,0.67,Screenshot 2025-12-12 at 21.43.37.png,Жумабека улица,Первомайский район
-42.883132,74.562789,longitudinal_crack,6.5,0.81,Screenshot 2025-12-12 at 21.43.37.png,Жумабека улица,Первомайский район
-42.883075,74.562877,transverse_crack,8.2,0.68,Screenshot 2025-12-12 at 21.43.37.png,Жумабека улица,Первомайский район
-42.883057,74.562832,longitudinal_crack,7.5,0.82,Screenshot 2025-12-12 at 21.43.37.png,Жумабека улица,Первомайский район
-42.854727,74.56781,alligator_crack,8.3,0.87,Screenshot 2025-12-12 at 22.08.02.png,Абдыкадырова улица,Рабочий городок ж/м
-42.854659,74.567718,alligator_crack,6.1,0.73,Screenshot 2025-12-12 at 22.08.02.png,Абдыкадырова улица,Рабочий городок ж/м
-42.85463,74.567697,alligator_crack,6.1,0.76,Screenshot 2025-12-12 at 22.08.02.png,Абдыкадырова улица,Рабочий городок ж/м
-42.854803,74.567708,transverse_crack,6.7,0.74,Screenshot 2025-12-12 at 22.08.02.png,Абдыкадырова улица,Рабочий городок ж/м
-42.858977,74.583682,pothole,8.7,0.79,Screenshot 2025-12-12 at 22.13.30.png,Александровская улица (до 1920),Ленинский район
-42.859069,74.583707,transverse_crack,8.4,0.71,Screenshot 2025-12-12 at 22.13.30.png,Александровская улица (до 1920),Ленинский район
-42.859085,74.583586,pothole,7.0,0.66,Screenshot 2025-12-12 at 22.13.30.png,Александровская улица (до 1920),Ленинский район
-42.85903,74.583597,transverse_crack,7.8,0.77,Screenshot 2025-12-12 at 22.13.30.png,Александровская улица (до 1920),Ленинский район
-42.8814,74.582695,transverse_crack,4.8,0.84,Screenshot 2025-12-12 at 21.53.25.png,Уметалиева Темиркула улица,Ленинский район
-42.881423,74.582779,pothole,4.1,0.88,Screenshot 2025-12-12 at 21.53.25.png,Уметалиева Темиркула улица,Ленинский район
-42.881534,74.582706,longitudinal_crack,4.6,0.93,Screenshot 2025-12-12 at 21.53.25.png,Уметалиева Темиркула улица,Ленинский район
-42.881458,74.582604,alligator_crack,8.2,0.86,Screenshot 2025-12-12 at 21.53.25.png,Уметалиева Темиркула улица,Ленинский район
-42.855447,74.561889,alligator_crack,7.4,0.95,Screenshot 2025-12-12 at 22.08.29.png,Волжский переулок,Рабочий городок ж/м
-42.85534,74.561871,longitudinal_crack,7.8,0.91,Screenshot 2025-12-12 at 22.08.29.png,Волжский переулок,Рабочий городок ж/м
-42.855487,74.561843,transverse_crack,6.1,0.91,Screenshot 2025-12-12 at 22.08.29.png,Волжский переулок,Рабочий городок ж/м
-42.855347,74.561888,pothole,4.4,0.79,Screenshot 2025-12-12 at 22.08.29.png,Волжский переулок,Рабочий городок ж/м
-42.883727,74.584139,transverse_crack,7.7,0.85,Screenshot 2025-12-12 at 22.01.31.png,Шевченко улица,Ленинский район
-42.883796,74.584208,pothole,6.7,0.76,Screenshot 2025-12-12 at 22.01.31.png,Шевченко улица,Ленинский район
-42.883818,74.584206,alligator_crack,9.4,0.87,Screenshot 2025-12-12 at 22.01.31.png,Шевченко улица,Ленинский район
-42.879665,74.573702,transverse_crack,6.0,0.84,Screenshot 2025-12-12 at 21.58.00.png,Ала-Арчинская улица,Ленинский район
-42.870946,74.574333,transverse_crack,5.1,0.83,Screenshot 2025-12-12 at 22.02.59.png,Московская улица,Ленинский район
-42.87105,74.574245,pothole,5.5,0.84,Screenshot 2025-12-12 at 22.02.59.png,Молодой Гвардии бульвар,Ленинский район
-42.865661,74.5742,alligator_crack,7.2,0.88,Screenshot 2025-12-12 at 22.10.59.png,Астраханский переулок,Ленинский район
-42.865605,74.574117,longitudinal_crack,4.3,0.8,Screenshot 2025-12-12 at 22.10.59.png,Астраханский переулок,Ленинский район
-42.8583,74.573963,alligator_crack,8.6,0.91,Screenshot 2025-12-12 at 22.05.47.png,Абдыкадырова улица,Рабочий городок ж/м
-42.858309,74.573852,pothole,4.7,0.84,Screenshot 2025-12-12 at 22.05.47.png,Абдыкадырова улица,Рабочий городок ж/м
-42.858262,74.57391,alligator_crack,4.2,0.81,Screenshot 2025-12-12 at 22.05.47.png,Абдыкадырова улица,Рабочий городок ж/м
-42.862015,74.569185,pothole,8.0,0.93,Screenshot 2025-12-12 at 21.51.32.png,Асаналиева Усенгазы улица,Рабочий городок ж/м
-42.862031,74.569242,pothole,5.0,0.83,Screenshot 2025-12-12 at 21.51.32.png,Абдыкадырова улица,Рабочий городок ж/м
-42.862027,74.569318,pothole,6.2,0.75,Screenshot 2025-12-12 at 21.51.32.png,Абдыкадырова улица,Рабочий городок ж/м
-42.862101,74.569321,alligator_crack,6.9,0.85,Screenshot 2025-12-12 at 21.51.32.png,Абдыкадырова улица,Рабочий городок ж/м
-42.861931,74.569158,transverse_crack,9.1,0.77,Screenshot 2025-12-12 at 21.51.32.png,Абдыкадырова улица,Рабочий городок ж/м
+42.874428,74.569637,alligator_crack,3.6,0.91,img_Chui_Avenue_000.jpg,Chui Avenue,Sverdlovsky
+42.874741,74.569859,transverse_crack,4.4,0.82,img_Chui_Avenue_001.jpg,Chui Avenue,Sverdlovsky
+42.874461,74.569648,alligator_crack,4.4,0.9,img_Chui_Avenue_002.jpg,Chui Avenue,Sverdlovsky
+42.874664,74.569904,longitudinal_crack,3.4,0.79,img_Chui_Avenue_003.jpg,Chui Avenue,Sverdlovsky
+42.87454,74.569903,alligator_crack,3.4,0.67,img_Chui_Avenue_004.jpg,Chui Avenue,Sverdlovsky
+42.874719,74.569796,transverse_crack,2.0,0.67,img_Chui_Avenue_005.jpg,Chui Avenue,Sverdlovsky
+42.874654,74.569645,longitudinal_crack,2.7,0.8,img_Chui_Avenue_006.jpg,Chui Avenue,Sverdlovsky
+42.874581,74.569805,pothole,3.8,0.68,img_Chui_Avenue_007.jpg,Chui Avenue,Sverdlovsky
+42.874632,74.569633,alligator_crack,2.9,0.67,img_Chui_Avenue_008.jpg,Chui Avenue,Sverdlovsky
+42.874717,74.569659,pothole,4.5,0.84,img_Chui_Avenue_009.jpg,Chui Avenue,Sverdlovsky
+42.874767,74.569754,pothole,5.2,0.93,img_Chui_Avenue_010.jpg,Chui Avenue,Sverdlovsky
+42.874488,74.569629,transverse_crack,3.4,0.91,img_Chui_Avenue_011.jpg,Chui Avenue,Sverdlovsky
+42.874605,74.569676,pothole,3.6,0.68,img_Chui_Avenue_012.jpg,Chui Avenue,Sverdlovsky
+42.874645,74.569936,longitudinal_crack,3.7,0.79,img_Chui_Avenue_013.jpg,Chui Avenue,Sverdlovsky
+42.874573,74.569748,pothole,5.3,0.77,img_Chui_Avenue_014.jpg,Chui Avenue,Sverdlovsky
+42.874448,74.569642,longitudinal_crack,4.2,0.82,img_Chui_Avenue_015.jpg,Chui Avenue,Sverdlovsky
+42.874769,74.570024,pothole,4.8,0.67,img_Chui_Avenue_016.jpg,Chui Avenue,Sverdlovsky
+42.874673,74.569853,longitudinal_crack,2.8,0.84,img_Chui_Avenue_017.jpg,Chui Avenue,Sverdlovsky
+42.874608,74.569902,longitudinal_crack,2.0,0.65,img_Chui_Avenue_018.jpg,Chui Avenue,Sverdlovsky
+42.874575,74.569706,alligator_crack,5.8,0.91,img_Chui_Avenue_019.jpg,Chui Avenue,Sverdlovsky
+42.874678,74.569942,transverse_crack,4.8,0.94,img_Chui_Avenue_020.jpg,Chui Avenue,Sverdlovsky
+42.874765,74.569973,pothole,5.0,0.77,img_Chui_Avenue_021.jpg,Chui Avenue,Sverdlovsky
+42.874776,74.569605,transverse_crack,4.2,0.77,img_Chui_Avenue_022.jpg,Chui Avenue,Sverdlovsky
+42.874655,74.56977,transverse_crack,4.4,0.85,img_Chui_Avenue_023.jpg,Chui Avenue,Sverdlovsky
+42.874662,74.569715,transverse_crack,4.1,0.94,img_Chui_Avenue_024.jpg,Chui Avenue,Sverdlovsky
+42.874743,74.569735,alligator_crack,4.7,0.79,img_Chui_Avenue_025.jpg,Chui Avenue,Sverdlovsky
+42.874744,74.569669,transverse_crack,2.2,0.79,img_Chui_Avenue_026.jpg,Chui Avenue,Sverdlovsky
+42.874426,74.569849,longitudinal_crack,2.7,0.87,img_Chui_Avenue_027.jpg,Chui Avenue,Sverdlovsky
+42.874759,74.569938,alligator_crack,2.5,0.69,img_Chui_Avenue_028.jpg,Chui Avenue,Sverdlovsky
+42.874762,74.570004,longitudinal_crack,3.2,0.93,img_Chui_Avenue_029.jpg,Chui Avenue,Sverdlovsky
+42.874509,74.569568,pothole,4.9,0.78,img_Chui_Avenue_030.jpg,Chui Avenue,Sverdlovsky
+42.874611,74.569614,transverse_crack,3.8,0.81,img_Chui_Avenue_031.jpg,Chui Avenue,Sverdlovsky
+42.874758,74.569862,alligator_crack,2.6,0.72,img_Chui_Avenue_032.jpg,Chui Avenue,Sverdlovsky
+42.87475,74.570024,pothole,5.0,0.74,img_Chui_Avenue_033.jpg,Chui Avenue,Sverdlovsky
+42.874577,74.569648,alligator_crack,3.0,0.78,img_Chui_Avenue_034.jpg,Chui Avenue,Sverdlovsky
+42.874479,74.569847,pothole,3.6,0.7,img_Chui_Avenue_035.jpg,Chui Avenue,Sverdlovsky
+42.874767,74.569916,longitudinal_crack,2.8,0.79,img_Chui_Avenue_036.jpg,Chui Avenue,Sverdlovsky
+42.874561,74.569871,longitudinal_crack,2.4,0.72,img_Chui_Avenue_037.jpg,Chui Avenue,Sverdlovsky
+42.874509,74.569598,transverse_crack,3.1,0.79,img_Chui_Avenue_038.jpg,Chui Avenue,Sverdlovsky
+42.874529,74.569748,pothole,4.1,0.74,img_Chui_Avenue_039.jpg,Chui Avenue,Sverdlovsky
+42.874653,74.569887,pothole,5.2,0.78,img_Chui_Avenue_040.jpg,Chui Avenue,Sverdlovsky
+42.874612,74.5699,transverse_crack,3.0,0.68,img_Chui_Avenue_041.jpg,Chui Avenue,Sverdlovsky
+42.874694,74.569668,pothole,6.1,0.86,img_Chui_Avenue_042.jpg,Chui Avenue,Sverdlovsky
+42.874598,74.569998,pothole,4.3,0.8,img_Chui_Avenue_043.jpg,Chui Avenue,Sverdlovsky
+42.874476,74.569634,pothole,6.1,0.89,img_Chui_Avenue_044.jpg,Chui Avenue,Sverdlovsky
+42.874773,74.569833,alligator_crack,4.1,0.73,img_Chui_Avenue_045.jpg,Chui Avenue,Sverdlovsky
+42.874497,74.569582,transverse_crack,3.0,0.88,img_Chui_Avenue_046.jpg,Chui Avenue,Sverdlovsky
+42.874547,74.569882,transverse_crack,2.3,0.66,img_Chui_Avenue_047.jpg,Chui Avenue,Sverdlovsky
+42.874497,74.569665,longitudinal_crack,2.8,0.75,img_Manas_Avenue_000.jpg,Manas Avenue,Leninsky
+42.874766,74.569995,alligator_crack,3.3,0.77,img_Manas_Avenue_001.jpg,Manas Avenue,Leninsky
+42.874713,74.570035,pothole,4.5,0.82,img_Manas_Avenue_002.jpg,Manas Avenue,Leninsky
+42.874706,74.569942,pothole,4.2,0.8,img_Manas_Avenue_003.jpg,Manas Avenue,Leninsky
+42.874708,74.569614,alligator_crack,6.1,0.94,img_Manas_Avenue_004.jpg,Manas Avenue,Leninsky
+42.874714,74.569691,alligator_crack,4.4,0.69,img_Manas_Avenue_005.jpg,Manas Avenue,Leninsky
+42.874675,74.569857,pothole,4.5,0.72,img_Manas_Avenue_006.jpg,Manas Avenue,Leninsky
+42.874671,74.569599,pothole,4.6,0.71,img_Manas_Avenue_007.jpg,Manas Avenue,Leninsky
+42.874754,74.569897,longitudinal_crack,3.5,0.88,img_Manas_Avenue_008.jpg,Manas Avenue,Leninsky
+42.874464,74.570045,transverse_crack,4.5,0.82,img_Manas_Avenue_009.jpg,Manas Avenue,Leninsky
+42.874698,74.56976,longitudinal_crack,3.8,0.95,img_Manas_Avenue_010.jpg,Manas Avenue,Leninsky
+42.874462,74.569899,longitudinal_crack,3.4,0.65,img_Manas_Avenue_011.jpg,Manas Avenue,Leninsky
+42.874553,74.569931,alligator_crack,4.0,0.7,img_Manas_Avenue_012.jpg,Manas Avenue,Leninsky
+42.87462,74.569844,alligator_crack,3.4,0.86,img_Manas_Avenue_013.jpg,Manas Avenue,Leninsky
+42.874596,74.569679,pothole,4.4,0.8,img_Manas_Avenue_014.jpg,Manas Avenue,Leninsky
+42.874529,74.56992,longitudinal_crack,1.6,0.66,img_Manas_Avenue_015.jpg,Manas Avenue,Leninsky
+42.874567,74.569827,pothole,3.7,0.71,img_Manas_Avenue_016.jpg,Manas Avenue,Leninsky
+42.874555,74.569763,transverse_crack,3.5,0.8,img_Manas_Avenue_017.jpg,Manas Avenue,Leninsky
+42.874661,74.569712,transverse_crack,3.4,0.75,img_Manas_Avenue_018.jpg,Manas Avenue,Leninsky
+42.874449,74.569627,transverse_crack,3.5,0.73,img_Manas_Avenue_019.jpg,Manas Avenue,Leninsky
+42.874591,74.570033,pothole,3.3,0.7,img_Manas_Avenue_020.jpg,Manas Avenue,Leninsky
+42.874663,74.570024,longitudinal_crack,3.2,0.66,img_Manas_Avenue_021.jpg,Manas Avenue,Leninsky
+42.874754,74.569675,pothole,4.0,0.9,img_Manas_Avenue_022.jpg,Manas Avenue,Leninsky
+42.874443,74.569774,longitudinal_crack,2.7,0.76,img_Manas_Avenue_023.jpg,Manas Avenue,Leninsky
+42.874687,74.570005,longitudinal_crack,2.0,0.83,img_Manas_Avenue_024.jpg,Manas Avenue,Leninsky
+42.874541,74.569571,alligator_crack,3.6,0.7,img_Manas_Avenue_025.jpg,Manas Avenue,Leninsky
+42.874737,74.569796,transverse_crack,3.6,0.91,img_Manas_Avenue_026.jpg,Manas Avenue,Leninsky
+42.874596,74.569589,alligator_crack,4.7,0.8,img_Manas_Avenue_027.jpg,Manas Avenue,Leninsky
+42.874745,74.570022,alligator_crack,4.3,0.78,img_Manas_Avenue_028.jpg,Manas Avenue,Leninsky
+42.874759,74.569558,pothole,5.0,0.71,img_Manas_Avenue_029.jpg,Manas Avenue,Leninsky
+42.87463,74.56978,alligator_crack,4.6,0.86,img_Manas_Avenue_030.jpg,Manas Avenue,Leninsky
+42.874531,74.569893,pothole,6.4,0.91,img_Manas_Avenue_031.jpg,Manas Avenue,Leninsky
+42.874567,74.569641,longitudinal_crack,3.4,0.91,img_Manas_Avenue_032.jpg,Manas Avenue,Leninsky
+42.874487,74.569727,transverse_crack,3.4,0.93,img_Manas_Avenue_033.jpg,Manas Avenue,Leninsky
+42.874455,74.569663,transverse_crack,2.8,0.83,img_Manas_Avenue_034.jpg,Manas Avenue,Leninsky
+42.874439,74.570019,transverse_crack,2.4,0.79,img_Manas_Avenue_035.jpg,Manas Avenue,Leninsky
+42.874432,74.569795,pothole,6.2,0.9,img_Manas_Avenue_036.jpg,Manas Avenue,Leninsky
+42.874499,74.56976,pothole,4.4,0.87,img_Manas_Avenue_037.jpg,Manas Avenue,Leninsky
+42.874663,74.569867,alligator_crack,4.4,0.75,img_Manas_Avenue_038.jpg,Manas Avenue,Leninsky
+42.87469,74.569684,pothole,3.7,0.66,img_Manas_Avenue_039.jpg,Manas Avenue,Leninsky
+42.874572,74.569904,alligator_crack,4.3,0.92,img_Manas_Avenue_040.jpg,Manas Avenue,Leninsky
+42.874438,74.570012,pothole,4.5,0.93,img_Manas_Avenue_041.jpg,Manas Avenue,Leninsky
+42.874756,74.569661,alligator_crack,5.3,0.93,img_Manas_Avenue_042.jpg,Manas Avenue,Leninsky
+42.87451,74.569798,longitudinal_crack,1.9,0.66,img_Manas_Avenue_043.jpg,Manas Avenue,Leninsky
+42.874609,74.569709,alligator_crack,5.2,0.94,img_Manas_Avenue_044.jpg,Manas Avenue,Leninsky
+42.874736,74.569732,transverse_crack,2.2,0.76,img_Manas_Avenue_045.jpg,Manas Avenue,Leninsky
+42.874659,74.569889,transverse_crack,4.1,0.88,img_Manas_Avenue_046.jpg,Manas Avenue,Leninsky
+42.874491,74.569641,alligator_crack,2.6,0.75,img_Ibraimov_Street_000.jpg,Ibraimov Street,Pervomaysky
+42.874472,74.569833,alligator_crack,3.6,0.86,img_Ibraimov_Street_001.jpg,Ibraimov Street,Pervomaysky
+42.87443,74.569868,transverse_crack,3.8,0.79,img_Ibraimov_Street_002.jpg,Ibraimov Street,Pervomaysky
+42.874573,74.569808,transverse_crack,2.4,0.83,img_Ibraimov_Street_003.jpg,Ibraimov Street,Pervomaysky
+42.874677,74.569597,alligator_crack,3.5,0.73,img_Ibraimov_Street_004.jpg,Ibraimov Street,Pervomaysky
+42.874613,74.569892,transverse_crack,2.2,0.74,img_Ibraimov_Street_005.jpg,Ibraimov Street,Pervomaysky
+42.874638,74.569786,alligator_crack,2.9,0.74,img_Ibraimov_Street_006.jpg,Ibraimov Street,Pervomaysky
+42.87478,74.569778,alligator_crack,3.2,0.71,img_Ibraimov_Street_007.jpg,Ibraimov Street,Pervomaysky
+42.8745,74.569741,pothole,5.1,0.85,img_Ibraimov_Street_008.jpg,Ibraimov Street,Pervomaysky
+42.874578,74.569643,alligator_crack,4.0,0.69,img_Ibraimov_Street_009.jpg,Ibraimov Street,Pervomaysky
+42.874627,74.569575,pothole,4.5,0.72,img_Ibraimov_Street_010.jpg,Ibraimov Street,Pervomaysky
+42.874441,74.569647,pothole,4.8,0.66,img_Ibraimov_Street_011.jpg,Ibraimov Street,Pervomaysky
+42.874426,74.569781,pothole,3.5,0.76,img_Ibraimov_Street_012.jpg,Ibraimov Street,Pervomaysky
+42.874735,74.569845,pothole,4.1,0.82,img_Ibraimov_Street_013.jpg,Ibraimov Street,Pervomaysky
+42.874487,74.569795,pothole,4.0,0.78,img_Ibraimov_Street_014.jpg,Ibraimov Street,Pervomaysky
+42.87455,74.569924,pothole,3.6,0.7,img_Ibraimov_Street_015.jpg,Ibraimov Street,Pervomaysky
+42.874627,74.569628,pothole,3.6,0.7,img_Ibraimov_Street_016.jpg,Ibraimov Street,Pervomaysky
+42.874556,74.569714,transverse_crack,4.0,0.77,img_Ibraimov_Street_017.jpg,Ibraimov Street,Pervomaysky
+42.874745,74.569789,pothole,5.7,0.82,img_Ibraimov_Street_018.jpg,Ibraimov Street,Pervomaysky
+42.874711,74.569973,longitudinal_crack,3.8,0.76,img_Ibraimov_Street_019.jpg,Ibraimov Street,Pervomaysky
+42.874621,74.569702,pothole,2.8,0.65,img_Ibraimov_Street_020.jpg,Ibraimov Street,Pervomaysky
+42.874424,74.569918,longitudinal_crack,4.6,0.94,img_Ibraimov_Street_021.jpg,Ibraimov Street,Pervomaysky
+42.874694,74.569556,longitudinal_crack,3.9,0.87,img_Ibraimov_Street_022.jpg,Ibraimov Street,Pervomaysky
+42.874458,74.569848,pothole,4.5,0.76,img_Ibraimov_Street_023.jpg,Ibraimov Street,Pervomaysky
+42.874508,74.569961,transverse_crack,4.0,0.72,img_Ibraimov_Street_024.jpg,Ibraimov Street,Pervomaysky
+42.874457,74.569971,alligator_crack,5.4,0.84,img_Ibraimov_Street_025.jpg,Ibraimov Street,Pervomaysky
+42.874519,74.569686,alligator_crack,3.1,0.75,img_Ibraimov_Street_026.jpg,Ibraimov Street,Pervomaysky
+42.874693,74.570002,alligator_crack,2.9,0.75,img_Ibraimov_Street_027.jpg,Ibraimov Street,Pervomaysky
+42.874469,74.570012,longitudinal_crack,3.0,0.93,img_Ibraimov_Street_028.jpg,Ibraimov Street,Pervomaysky
+42.87461,74.569755,alligator_crack,5.7,0.89,img_Ibraimov_Street_029.jpg,Ibraimov Street,Pervomaysky
+42.874531,74.569814,transverse_crack,3.3,0.7,img_Ibraimov_Street_030.jpg,Ibraimov Street,Pervomaysky
+42.874674,74.569937,pothole,5.7,0.83,img_Ibraimov_Street_031.jpg,Ibraimov Street,Pervomaysky
+42.874449,74.569953,longitudinal_crack,4.1,0.8,img_Ibraimov_Street_032.jpg,Ibraimov Street,Pervomaysky
+42.874493,74.569742,longitudinal_crack,3.9,0.86,img_Abdrakhmanov_Street_000.jpg,Abdrakhmanov Street,Sverdlovsky
+42.874662,74.569995,transverse_crack,2.8,0.89,img_Abdrakhmanov_Street_001.jpg,Abdrakhmanov Street,Sverdlovsky
+42.874691,74.569694,pothole,3.9,0.67,img_Abdrakhmanov_Street_002.jpg,Abdrakhmanov Street,Sverdlovsky
+42.874429,74.570022,longitudinal_crack,2.4,0.65,img_Abdrakhmanov_Street_003.jpg,Abdrakhmanov Street,Sverdlovsky
+42.87455,74.569954,pothole,3.5,0.79,img_Abdrakhmanov_Street_004.jpg,Abdrakhmanov Street,Sverdlovsky
+42.874536,74.569866,transverse_crack,3.5,0.84,img_Abdrakhmanov_Street_005.jpg,Abdrakhmanov Street,Sverdlovsky
+42.874692,74.56958,pothole,4.3,0.74,img_Abdrakhmanov_Street_006.jpg,Abdrakhmanov Street,Sverdlovsky
+42.874494,74.569761,alligator_crack,2.5,0.69,img_Abdrakhmanov_Street_007.jpg,Abdrakhmanov Street,Sverdlovsky
+42.874423,74.569875,pothole,3.8,0.75,img_Abdrakhmanov_Street_008.jpg,Abdrakhmanov Street,Sverdlovsky
+42.874481,74.56981,alligator_crack,3.3,0.73,img_Abdrakhmanov_Street_009.jpg,Abdrakhmanov Street,Sverdlovsky
+42.874593,74.569805,alligator_crack,4.4,0.72,img_Abdrakhmanov_Street_010.jpg,Abdrakhmanov Street,Sverdlovsky
+42.874679,74.569992,longitudinal_crack,3.8,0.81,img_Abdrakhmanov_Street_011.jpg,Abdrakhmanov Street,Sverdlovsky
+42.874693,74.57,longitudinal_crack,4.5,0.85,img_Abdrakhmanov_Street_012.jpg,Abdrakhmanov Street,Sverdlovsky
+42.874483,74.569814,alligator_crack,3.9,0.94,img_Abdrakhmanov_Street_013.jpg,Abdrakhmanov Street,Sverdlovsky
+42.874464,74.569574,longitudinal_crack,2.5,0.72,img_Abdrakhmanov_Street_014.jpg,Abdrakhmanov Street,Sverdlovsky
+42.874556,74.569958,pothole,6.0,0.85,img_Abdrakhmanov_Street_015.jpg,Abdrakhmanov Street,Sverdlovsky
+42.874557,74.569691,alligator_crack,4.8,0.89,img_Abdrakhmanov_Street_016.jpg,Abdrakhmanov Street,Sverdlovsky
+42.874665,74.569991,transverse_crack,3.3,0.69,img_Abdrakhmanov_Street_017.jpg,Abdrakhmanov Street,Sverdlovsky
+42.874552,74.569993,alligator_crack,3.6,0.89,img_Abdrakhmanov_Street_018.jpg,Abdrakhmanov Street,Sverdlovsky
+42.874604,74.569561,longitudinal_crack,3.8,0.81,img_Abdrakhmanov_Street_019.jpg,Abdrakhmanov Street,Sverdlovsky
+42.874524,74.569595,alligator_crack,3.6,0.9,img_Abdrakhmanov_Street_020.jpg,Abdrakhmanov Street,Sverdlovsky
+42.874721,74.569928,transverse_crack,3.2,0.82,img_Abdrakhmanov_Street_021.jpg,Abdrakhmanov Street,Sverdlovsky
+42.87461,74.569723,alligator_crack,4.9,0.77,img_Erkindik_Boulevard_000.jpg,Erkindik Boulevard,Oktyabrsky
+42.87475,74.569641,pothole,3.8,0.77,img_Erkindik_Boulevard_001.jpg,Erkindik Boulevard,Oktyabrsky
+42.874634,74.569895,transverse_crack,3.2,0.77,img_Erkindik_Boulevard_002.jpg,Erkindik Boulevard,Oktyabrsky
+42.874536,74.569556,transverse_crack,3.4,0.69,img_Erkindik_Boulevard_003.jpg,Erkindik Boulevard,Oktyabrsky
+42.874641,74.569754,pothole,6.0,0.89,img_Erkindik_Boulevard_004.jpg,Erkindik Boulevard,Oktyabrsky
+42.874476,74.569966,longitudinal_crack,4.0,0.78,img_Erkindik_Boulevard_005.jpg,Erkindik Boulevard,Oktyabrsky
+42.874532,74.569784,transverse_crack,3.4,0.9,img_Erkindik_Boulevard_006.jpg,Erkindik Boulevard,Oktyabrsky
+42.874743,74.570014,pothole,3.8,0.86,img_Erkindik_Boulevard_007.jpg,Erkindik Boulevard,Oktyabrsky
+42.87453,74.569576,alligator_crack,3.9,0.66,img_Erkindik_Boulevard_008.jpg,Erkindik Boulevard,Oktyabrsky
+42.874699,74.569847,pothole,6.1,0.86,img_Erkindik_Boulevard_009.jpg,Erkindik Boulevard,Oktyabrsky
+42.874438,74.569638,transverse_crack,2.8,0.77,img_Erkindik_Boulevard_010.jpg,Erkindik Boulevard,Oktyabrsky
+42.874597,74.569775,longitudinal_crack,2.2,0.85,img_Erkindik_Boulevard_011.jpg,Erkindik Boulevard,Oktyabrsky
+42.874538,74.569857,alligator_crack,5.5,0.91,img_Erkindik_Boulevard_012.jpg,Erkindik Boulevard,Oktyabrsky
+42.874767,74.569871,pothole,6.4,0.95,img_Erkindik_Boulevard_013.jpg,Erkindik Boulevard,Oktyabrsky
+42.874654,74.56987,pothole,5.5,0.78,img_Erkindik_Boulevard_014.jpg,Erkindik Boulevard,Oktyabrsky
+42.874545,74.569841,longitudinal_crack,2.9,0.68,img_Erkindik_Boulevard_015.jpg,Erkindik Boulevard,Oktyabrsky
+42.8746,74.569641,pothole,4.0,0.65,img_Erkindik_Boulevard_016.jpg,Erkindik Boulevard,Oktyabrsky
+42.874512,74.569656,longitudinal_crack,3.7,0.94,img_Erkindik_Boulevard_017.jpg,Erkindik Boulevard,Oktyabrsky
+42.874737,74.569652,longitudinal_crack,3.1,0.92,img_Erkindik_Boulevard_018.jpg,Erkindik Boulevard,Oktyabrsky
+42.874706,74.569846,transverse_crack,4.7,0.88,img_Erkindik_Boulevard_019.jpg,Erkindik Boulevard,Oktyabrsky
+42.874425,74.569586,longitudinal_crack,3.2,0.85,img_Erkindik_Boulevard_020.jpg,Erkindik Boulevard,Oktyabrsky
+42.874441,74.569983,alligator_crack,3.8,0.93,img_Erkindik_Boulevard_021.jpg,Erkindik Boulevard,Oktyabrsky
+42.874514,74.570034,pothole,5.4,0.8,img_Erkindik_Boulevard_022.jpg,Erkindik Boulevard,Oktyabrsky
+42.874435,74.569613,longitudinal_crack,2.7,0.88,img_Erkindik_Boulevard_023.jpg,Erkindik Boulevard,Oktyabrsky
+42.874423,74.569642,transverse_crack,3.4,0.84,img_Erkindik_Boulevard_024.jpg,Erkindik Boulevard,Oktyabrsky
+42.874637,74.569647,alligator_crack,2.7,0.65,img_Erkindik_Boulevard_025.jpg,Erkindik Boulevard,Oktyabrsky
+42.874602,74.569755,longitudinal_crack,3.4,0.66,img_Frunze_Street_000.jpg,Frunze Street,Leninsky
+42.874491,74.569908,alligator_crack,5.4,0.9,img_Frunze_Street_001.jpg,Frunze Street,Leninsky
+42.874565,74.569588,transverse_crack,2.4,0.78,img_Frunze_Street_002.jpg,Frunze Street,Leninsky
+42.87455,74.569844,longitudinal_crack,2.4,0.85,img_Frunze_Street_003.jpg,Frunze Street,Leninsky
+42.874623,74.569645,alligator_crack,3.0,0.67,img_Frunze_Street_004.jpg,Frunze Street,Leninsky
+42.874675,74.569867,pothole,5.0,0.87,img_Frunze_Street_005.jpg,Frunze Street,Leninsky
+42.874774,74.569974,alligator_crack,3.7,0.86,img_Frunze_Street_006.jpg,Frunze Street,Leninsky
+42.874486,74.569706,longitudinal_crack,3.3,0.69,img_Frunze_Street_007.jpg,Frunze Street,Leninsky
+42.874775,74.569849,transverse_crack,3.9,0.82,img_Frunze_Street_008.jpg,Frunze Street,Leninsky
+42.87478,74.569886,transverse_crack,3.5,0.73,img_Frunze_Street_009.jpg,Frunze Street,Leninsky
+42.874495,74.569824,longitudinal_crack,2.6,0.85,img_Frunze_Street_010.jpg,Frunze Street,Leninsky
+42.874577,74.569726,pothole,6.1,0.9,img_Frunze_Street_011.jpg,Frunze Street,Leninsky
+42.874545,74.569586,alligator_crack,4.0,0.8,img_Frunze_Street_012.jpg,Frunze Street,Leninsky
+42.874608,74.569755,longitudinal_crack,3.5,0.73,img_Frunze_Street_013.jpg,Frunze Street,Leninsky
+42.874555,74.569779,alligator_crack,3.7,0.85,img_Frunze_Street_014.jpg,Frunze Street,Leninsky
+42.874495,74.569763,alligator_crack,5.5,0.87,img_Frunze_Street_015.jpg,Frunze Street,Leninsky
+42.874513,74.569723,alligator_crack,4.8,0.78,img_Frunze_Street_016.jpg,Frunze Street,Leninsky
+42.874635,74.569793,alligator_crack,2.5,0.68,img_Frunze_Street_017.jpg,Frunze Street,Leninsky
+42.874657,74.569702,transverse_crack,2.7,0.94,img_Frunze_Street_018.jpg,Frunze Street,Leninsky
+42.874699,74.569998,pothole,3.4,0.74,img_Frunze_Street_019.jpg,Frunze Street,Leninsky
+42.874451,74.569979,transverse_crack,2.7,0.81,img_Frunze_Street_020.jpg,Frunze Street,Leninsky
+42.87464,74.569629,longitudinal_crack,3.4,0.83,img_Frunze_Street_021.jpg,Frunze Street,Leninsky
+42.874614,74.569643,transverse_crack,3.0,0.68,img_Frunze_Street_022.jpg,Frunze Street,Leninsky
+42.874778,74.569755,alligator_crack,4.5,0.89,img_Frunze_Street_023.jpg,Frunze Street,Leninsky
+42.874715,74.569959,longitudinal_crack,2.6,0.68,img_Frunze_Street_024.jpg,Frunze Street,Leninsky
+42.874717,74.569693,alligator_crack,3.4,0.66,img_Frunze_Street_025.jpg,Frunze Street,Leninsky
+42.874588,74.56999,alligator_crack,3.9,0.9,img_Frunze_Street_026.jpg,Frunze Street,Leninsky
+42.874464,74.569787,pothole,5.8,0.86,img_Frunze_Street_027.jpg,Frunze Street,Leninsky
+42.874714,74.569667,pothole,5.6,0.93,img_Frunze_Street_028.jpg,Frunze Street,Leninsky
+42.874748,74.569796,longitudinal_crack,2.4,0.79,img_Akhunbaev_Street_000.jpg,Akhunbaev Street,Sverdlovsky
+42.874648,74.569994,pothole,5.2,0.75,img_Akhunbaev_Street_001.jpg,Akhunbaev Street,Sverdlovsky
+42.874662,74.569767,alligator_crack,5.0,0.88,img_Akhunbaev_Street_002.jpg,Akhunbaev Street,Sverdlovsky
+42.87462,74.569838,longitudinal_crack,2.1,0.81,img_Akhunbaev_Street_003.jpg,Akhunbaev Street,Sverdlovsky
+42.874706,74.569813,pothole,4.0,0.89,img_Akhunbaev_Street_004.jpg,Akhunbaev Street,Sverdlovsky
+42.874513,74.569655,alligator_crack,2.6,0.66,img_Akhunbaev_Street_005.jpg,Akhunbaev Street,Sverdlovsky
+42.874534,74.569572,pothole,4.5,0.94,img_Akhunbaev_Street_006.jpg,Akhunbaev Street,Sverdlovsky
+42.874751,74.569626,alligator_crack,3.1,0.84,img_Akhunbaev_Street_007.jpg,Akhunbaev Street,Sverdlovsky
+42.874512,74.569827,transverse_crack,2.7,0.71,img_Akhunbaev_Street_008.jpg,Akhunbaev Street,Sverdlovsky
+42.874754,74.569688,longitudinal_crack,4.5,0.93,img_Akhunbaev_Street_009.jpg,Akhunbaev Street,Sverdlovsky
+42.874504,74.569801,alligator_crack,5.2,0.83,img_Akhunbaev_Street_010.jpg,Akhunbaev Street,Sverdlovsky
+42.874641,74.569737,pothole,5.4,0.88,img_Akhunbaev_Street_011.jpg,Akhunbaev Street,Sverdlovsky
+42.87445,74.569958,transverse_crack,4.9,0.93,img_Akhunbaev_Street_012.jpg,Akhunbaev Street,Sverdlovsky
+42.874469,74.569866,pothole,4.9,0.79,img_Akhunbaev_Street_013.jpg,Akhunbaev Street,Sverdlovsky
+42.874632,74.569847,longitudinal_crack,3.4,0.88,img_Akhunbaev_Street_014.jpg,Akhunbaev Street,Sverdlovsky
+42.874485,74.56983,transverse_crack,3.8,0.82,img_Akhunbaev_Street_015.jpg,Akhunbaev Street,Sverdlovsky
+42.874576,74.569828,longitudinal_crack,2.9,0.78,img_Akhunbaev_Street_016.jpg,Akhunbaev Street,Sverdlovsky
+42.874438,74.569872,longitudinal_crack,2.5,0.72,img_Akhunbaev_Street_017.jpg,Akhunbaev Street,Sverdlovsky
+42.874748,74.569638,pothole,6.1,0.88,img_Akhunbaev_Street_018.jpg,Akhunbaev Street,Sverdlovsky
+42.874645,74.569863,longitudinal_crack,1.7,0.68,img_Akhunbaev_Street_019.jpg,Akhunbaev Street,Sverdlovsky
+42.874599,74.569699,pothole,4.5,0.81,img_Toktogul_Street_000.jpg,Toktogul Street,Pervomaysky
+42.874572,74.57,longitudinal_crack,3.1,0.9,img_Toktogul_Street_001.jpg,Toktogul Street,Pervomaysky
+42.874747,74.569791,pothole,4.9,0.85,img_Toktogul_Street_002.jpg,Toktogul Street,Pervomaysky
+42.874643,74.569599,alligator_crack,4.5,0.73,img_Toktogul_Street_003.jpg,Toktogul Street,Pervomaysky
+42.874554,74.570044,transverse_crack,3.2,0.91,img_Toktogul_Street_004.jpg,Toktogul Street,Pervomaysky
+42.874422,74.569821,transverse_crack,4.4,0.93,img_Toktogul_Street_005.jpg,Toktogul Street,Pervomaysky
+42.874509,74.569844,alligator_crack,4.2,0.81,img_Toktogul_Street_006.jpg,Toktogul Street,Pervomaysky
+42.874429,74.569923,pothole,4.8,0.86,img_Toktogul_Street_007.jpg,Toktogul Street,Pervomaysky
+42.874653,74.569891,alligator_crack,2.7,0.76,img_Toktogul_Street_008.jpg,Toktogul Street,Pervomaysky
+42.874432,74.569855,longitudinal_crack,2.8,0.69,img_Toktogul_Street_009.jpg,Toktogul Street,Pervomaysky
+42.874439,74.569775,transverse_crack,5.3,0.95,img_Toktogul_Street_010.jpg,Toktogul Street,Pervomaysky
+42.874442,74.570016,alligator_crack,5.1,0.93,img_Toktogul_Street_011.jpg,Toktogul Street,Pervomaysky
+42.874636,74.569644,transverse_crack,3.5,0.73,img_Toktogul_Street_012.jpg,Toktogul Street,Pervomaysky
+42.874429,74.569965,transverse_crack,4.4,0.79,img_Toktogul_Street_013.jpg,Toktogul Street,Pervomaysky
+42.8746,74.56992,alligator_crack,3.9,0.82,img_Toktogul_Street_014.jpg,Toktogul Street,Pervomaysky
+42.874777,74.569684,longitudinal_crack,3.8,0.91,img_Toktogul_Street_015.jpg,Toktogul Street,Pervomaysky
+42.874603,74.57004,longitudinal_crack,3.8,0.95,img_Toktogul_Street_016.jpg,Toktogul Street,Pervomaysky
+42.874638,74.569657,longitudinal_crack,4.9,0.93,img_Toktogul_Street_017.jpg,Toktogul Street,Pervomaysky
+42.874655,74.56956,transverse_crack,3.0,0.79,img_Toktogul_Street_018.jpg,Toktogul Street,Pervomaysky
+42.874538,74.569888,transverse_crack,2.1,0.67,img_Toktogul_Street_019.jpg,Toktogul Street,Pervomaysky
+42.874739,74.570042,longitudinal_crack,2.7,0.87,img_Toktogul_Street_020.jpg,Toktogul Street,Pervomaysky
+42.874751,74.569948,alligator_crack,4.0,0.71,img_Toktogul_Street_021.jpg,Toktogul Street,Pervomaysky
+42.874466,74.569604,longitudinal_crack,2.2,0.88,img_Moskovskaya_Street_000.jpg,Moskovskaya Street,Oktyabrsky
+42.874707,74.569873,pothole,4.0,0.87,img_Moskovskaya_Street_001.jpg,Moskovskaya Street,Oktyabrsky
+42.874674,74.56991,alligator_crack,3.0,0.7,img_Moskovskaya_Street_002.jpg,Moskovskaya Street,Oktyabrsky
+42.874742,74.569728,alligator_crack,4.2,0.75,img_Moskovskaya_Street_003.jpg,Moskovskaya Street,Oktyabrsky
+42.874634,74.569978,alligator_crack,3.9,0.87,img_Moskovskaya_Street_004.jpg,Moskovskaya Street,Oktyabrsky
+42.874696,74.569744,pothole,4.5,0.66,img_Moskovskaya_Street_005.jpg,Moskovskaya Street,Oktyabrsky
+42.874466,74.569984,pothole,3.5,0.66,img_Moskovskaya_Street_006.jpg,Moskovskaya Street,Oktyabrsky
+42.874493,74.569959,pothole,5.3,0.86,img_Moskovskaya_Street_007.jpg,Moskovskaya Street,Oktyabrsky
+42.874713,74.569828,longitudinal_crack,3.9,0.74,img_Moskovskaya_Street_008.jpg,Moskovskaya Street,Oktyabrsky
+42.874547,74.569559,transverse_crack,2.4,0.85,img_Moskovskaya_Street_009.jpg,Moskovskaya Street,Oktyabrsky
+42.874525,74.569594,pothole,4.2,0.87,img_Moskovskaya_Street_010.jpg,Moskovskaya Street,Oktyabrsky
+42.874654,74.569614,pothole,4.3,0.69,img_Moskovskaya_Street_011.jpg,Moskovskaya Street,Oktyabrsky
+42.874712,74.569885,alligator_crack,5.2,0.84,img_Moskovskaya_Street_012.jpg,Moskovskaya Street,Oktyabrsky
+42.874496,74.569861,longitudinal_crack,3.6,0.94,img_Moskovskaya_Street_013.jpg,Moskovskaya Street,Oktyabrsky
+42.874522,74.569843,alligator_crack,3.6,0.66,img_Moskovskaya_Street_014.jpg,Moskovskaya Street,Oktyabrsky
+42.874543,74.569891,longitudinal_crack,3.0,0.65,img_Moskovskaya_Street_015.jpg,Moskovskaya Street,Oktyabrsky
+42.874731,74.569965,pothole,6.1,0.91,img_Moskovskaya_Street_016.jpg,Moskovskaya Street,Oktyabrsky
+42.874534,74.570037,transverse_crack,2.7,0.71,img_Moskovskaya_Street_017.jpg,Moskovskaya Street,Oktyabrsky
+42.87471,74.569815,pothole,4.8,0.77,img_Moskovskaya_Street_018.jpg,Moskovskaya Street,Oktyabrsky
+42.874507,74.56983,transverse_crack,3.0,0.85,img_Moskovskaya_Street_019.jpg,Moskovskaya Street,Oktyabrsky
+42.874579,74.569584,transverse_crack,3.5,0.66,img_Moskovskaya_Street_020.jpg,Moskovskaya Street,Oktyabrsky
+42.874695,74.569675,transverse_crack,4.3,0.85,img_Moskovskaya_Street_021.jpg,Moskovskaya Street,Oktyabrsky
+42.874477,74.570039,alligator_crack,4.2,0.79,img_Moskovskaya_Street_022.jpg,Moskovskaya Street,Oktyabrsky
+42.874588,74.569602,transverse_crack,3.6,0.81,img_Moskovskaya_Street_023.jpg,Moskovskaya Street,Oktyabrsky
+42.874696,74.569616,longitudinal_crack,3.1,0.83,img_Sovietskaya_Street_000.jpg,Sovietskaya Street,Leninsky
+42.874538,74.570035,alligator_crack,5.0,0.93,img_Sovietskaya_Street_001.jpg,Sovietskaya Street,Leninsky
+42.874726,74.56993,alligator_crack,4.1,0.81,img_Sovietskaya_Street_002.jpg,Sovietskaya Street,Leninsky
+42.874452,74.569838,longitudinal_crack,2.0,0.77,img_Sovietskaya_Street_003.jpg,Sovietskaya Street,Leninsky
+42.874547,74.569625,alligator_crack,4.0,0.92,img_Sovietskaya_Street_004.jpg,Sovietskaya Street,Leninsky
+42.874515,74.569713,longitudinal_crack,2.3,0.75,img_Sovietskaya_Street_005.jpg,Sovietskaya Street,Leninsky
+42.874668,74.570036,alligator_crack,3.7,0.65,img_Sovietskaya_Street_006.jpg,Sovietskaya Street,Leninsky
+42.874702,74.569971,alligator_crack,4.7,0.92,img_Sovietskaya_Street_007.jpg,Sovietskaya Street,Leninsky
+42.874456,74.569563,pothole,4.4,0.89,img_Sovietskaya_Street_008.jpg,Sovietskaya Street,Leninsky
+42.874613,74.56968,pothole,3.7,0.82,img_Sovietskaya_Street_009.jpg,Sovietskaya Street,Leninsky
+42.874695,74.569706,alligator_crack,5.1,0.8,img_Sovietskaya_Street_010.jpg,Sovietskaya Street,Leninsky
+42.874633,74.569962,transverse_crack,2.7,0.76,img_Sovietskaya_Street_011.jpg,Sovietskaya Street,Leninsky
+42.874734,74.569756,alligator_crack,4.2,0.76,img_Sovietskaya_Street_012.jpg,Sovietskaya Street,Leninsky
+42.874715,74.569662,pothole,3.6,0.7,img_Sovietskaya_Street_013.jpg,Sovietskaya Street,Leninsky
+42.874484,74.569605,transverse_crack,2.5,0.69,img_Sovietskaya_Street_014.jpg,Sovietskaya Street,Leninsky
+42.874531,74.569932,transverse_crack,4.2,0.86,img_Sovietskaya_Street_015.jpg,Sovietskaya Street,Leninsky
+42.874437,74.569789,alligator_crack,5.4,0.92,img_Sovietskaya_Street_016.jpg,Sovietskaya Street,Leninsky
+42.874532,74.56957,longitudinal_crack,3.5,0.8,img_Sovietskaya_Street_017.jpg,Sovietskaya Street,Leninsky
+42.874635,74.569692,longitudinal_crack,2.5,0.66,img_Sovietskaya_Street_018.jpg,Sovietskaya Street,Leninsky
+42.874669,74.569971,transverse_crack,3.5,0.83,img_Sovietskaya_Street_019.jpg,Sovietskaya Street,Leninsky
+42.874484,74.569953,transverse_crack,2.2,0.7,img_Sovietskaya_Street_020.jpg,Sovietskaya Street,Leninsky
+42.874653,74.569864,alligator_crack,3.3,0.84,img_Sovietskaya_Street_021.jpg,Sovietskaya Street,Leninsky
+42.874628,74.569677,alligator_crack,3.4,0.74,img_Sovietskaya_Street_022.jpg,Sovietskaya Street,Leninsky
+42.874533,74.569713,pothole,4.5,0.86,img_Sovietskaya_Street_023.jpg,Sovietskaya Street,Leninsky
+42.874682,74.569936,transverse_crack,3.8,0.7,img_Sovietskaya_Street_024.jpg,Sovietskaya Street,Leninsky
+42.87463,74.569589,longitudinal_crack,3.0,0.76,img_Logvinenko_Street_000.jpg,Logvinenko Street,Sverdlovsky
+42.874603,74.569555,alligator_crack,3.7,0.67,img_Logvinenko_Street_001.jpg,Logvinenko Street,Sverdlovsky
+42.874654,74.569631,longitudinal_crack,3.5,0.82,img_Logvinenko_Street_002.jpg,Logvinenko Street,Sverdlovsky
+42.87453,74.569945,longitudinal_crack,2.5,0.74,img_Logvinenko_Street_003.jpg,Logvinenko Street,Sverdlovsky
+42.874523,74.569807,transverse_crack,4.5,0.92,img_Logvinenko_Street_004.jpg,Logvinenko Street,Sverdlovsky
+42.874436,74.569976,alligator_crack,5.6,0.92,img_Logvinenko_Street_005.jpg,Logvinenko Street,Sverdlovsky
+42.874532,74.569704,longitudinal_crack,2.7,0.71,img_Logvinenko_Street_006.jpg,Logvinenko Street,Sverdlovsky
+42.874773,74.569808,pothole,5.7,0.89,img_Logvinenko_Street_007.jpg,Logvinenko Street,Sverdlovsky
+42.874556,74.569625,alligator_crack,4.8,0.93,img_Logvinenko_Street_008.jpg,Logvinenko Street,Sverdlovsky
+42.874556,74.569803,alligator_crack,4.5,0.88,img_Logvinenko_Street_009.jpg,Logvinenko Street,Sverdlovsky
+42.874643,74.56981,longitudinal_crack,1.7,0.71,img_Logvinenko_Street_010.jpg,Logvinenko Street,Sverdlovsky
+42.874544,74.569782,alligator_crack,3.7,0.83,img_Logvinenko_Street_011.jpg,Logvinenko Street,Sverdlovsky
+42.874668,74.569854,transverse_crack,2.7,0.82,img_Logvinenko_Street_012.jpg,Logvinenko Street,Sverdlovsky
+42.874682,74.569865,longitudinal_crack,4.9,0.95,img_Logvinenko_Street_013.jpg,Logvinenko Street,Sverdlovsky
+42.874579,74.569737,transverse_crack,2.6,0.72,img_Logvinenko_Street_014.jpg,Logvinenko Street,Sverdlovsky
+42.874639,74.569598,pothole,4.2,0.83,img_Logvinenko_Street_015.jpg,Logvinenko Street,Sverdlovsky
+42.874661,74.569882,transverse_crack,3.0,0.72,img_Logvinenko_Street_016.jpg,Logvinenko Street,Sverdlovsky
+42.874698,74.569578,longitudinal_crack,1.7,0.69,img_Logvinenko_Street_017.jpg,Logvinenko Street,Sverdlovsky
+42.874739,74.569696,pothole,5.3,0.86,img_Logvinenko_Street_018.jpg,Logvinenko Street,Sverdlovsky
+42.874547,74.569644,pothole,3.7,0.69,img_Logvinenko_Street_019.jpg,Logvinenko Street,Sverdlovsky
+42.874729,74.56979,alligator_crack,4.7,0.88,img_Logvinenko_Street_020.jpg,Logvinenko Street,Sverdlovsky
+42.87461,74.569572,alligator_crack,2.9,0.66,img_Bokonbaev_Street_000.jpg,Bokonbaev Street,Pervomaysky
+42.874468,74.569814,alligator_crack,3.0,0.78,img_Bokonbaev_Street_001.jpg,Bokonbaev Street,Pervomaysky
+42.874717,74.569793,longitudinal_crack,2.3,0.78,img_Bokonbaev_Street_002.jpg,Bokonbaev Street,Pervomaysky
+42.874543,74.569695,alligator_crack,3.5,0.75,img_Bokonbaev_Street_003.jpg,Bokonbaev Street,Pervomaysky
+42.874686,74.569791,transverse_crack,3.6,0.78,img_Bokonbaev_Street_004.jpg,Bokonbaev Street,Pervomaysky
+42.874557,74.56984,transverse_crack,3.0,0.71,img_Bokonbaev_Street_005.jpg,Bokonbaev Street,Pervomaysky
+42.874668,74.569789,longitudinal_crack,4.1,0.87,img_Bokonbaev_Street_006.jpg,Bokonbaev Street,Pervomaysky
+42.874535,74.569905,longitudinal_crack,4.7,0.9,img_Bokonbaev_Street_007.jpg,Bokonbaev Street,Pervomaysky
+42.874693,74.569798,longitudinal_crack,4.0,0.8,img_Bokonbaev_Street_008.jpg,Bokonbaev Street,Pervomaysky
+42.874578,74.569803,longitudinal_crack,2.1,0.68,img_Bokonbaev_Street_009.jpg,Bokonbaev Street,Pervomaysky
+42.874656,74.569763,alligator_crack,3.3,0.72,img_Bokonbaev_Street_010.jpg,Bokonbaev Street,Pervomaysky
+42.874558,74.569807,pothole,5.4,0.78,img_Bokonbaev_Street_011.jpg,Bokonbaev Street,Pervomaysky
+42.874447,74.56963,pothole,4.2,0.92,img_Bokonbaev_Street_012.jpg,Bokonbaev Street,Pervomaysky
+42.874527,74.569944,transverse_crack,2.4,0.81,img_Bokonbaev_Street_013.jpg,Bokonbaev Street,Pervomaysky
+42.874761,74.569648,longitudinal_crack,2.4,0.84,img_Bokonbaev_Street_014.jpg,Bokonbaev Street,Pervomaysky
+42.874557,74.569677,pothole,4.1,0.78,img_Bokonbaev_Street_015.jpg,Bokonbaev Street,Pervomaysky
+42.874584,74.569864,longitudinal_crack,2.4,0.66,img_Bokonbaev_Street_016.jpg,Bokonbaev Street,Pervomaysky
+42.874459,74.569986,longitudinal_crack,4.4,0.95,img_Bokonbaev_Street_017.jpg,Bokonbaev Street,Pervomaysky
+42.874612,74.569871,transverse_crack,5.3,0.95,img_Bokonbaev_Street_018.jpg,Bokonbaev Street,Pervomaysky
+42.874548,74.569839,longitudinal_crack,3.1,0.94,img_Bokonbaev_Street_019.jpg,Bokonbaev Street,Pervomaysky
+42.874439,74.569911,transverse_crack,3.2,0.84,img_Bokonbaev_Street_020.jpg,Bokonbaev Street,Pervomaysky
+42.874579,74.56988,pothole,3.7,0.68,img_Bokonbaev_Street_021.jpg,Bokonbaev Street,Pervomaysky
+42.874602,74.569965,alligator_crack,3.0,0.82,img_Bokonbaev_Street_022.jpg,Bokonbaev Street,Pervomaysky
+42.874717,74.569837,pothole,4.0,0.8,img_Jibek_Jolu_Street_000.jpg,Jibek Jolu Street,Oktyabrsky
+42.874697,74.569999,alligator_crack,4.0,0.93,img_Jibek_Jolu_Street_001.jpg,Jibek Jolu Street,Oktyabrsky
+42.874729,74.569713,longitudinal_crack,4.6,0.91,img_Jibek_Jolu_Street_002.jpg,Jibek Jolu Street,Oktyabrsky
+42.87451,74.569676,transverse_crack,3.9,0.8,img_Jibek_Jolu_Street_003.jpg,Jibek Jolu Street,Oktyabrsky
+42.874617,74.569644,transverse_crack,2.7,0.89,img_Jibek_Jolu_Street_004.jpg,Jibek Jolu Street,Oktyabrsky
+42.874499,74.569831,alligator_crack,3.7,0.71,img_Jibek_Jolu_Street_005.jpg,Jibek Jolu Street,Oktyabrsky
+42.874656,74.569621,transverse_crack,2.3,0.67,img_Jibek_Jolu_Street_006.jpg,Jibek Jolu Street,Oktyabrsky
+42.874479,74.569662,longitudinal_crack,2.3,0.66,img_Jibek_Jolu_Street_007.jpg,Jibek Jolu Street,Oktyabrsky
+42.874424,74.569609,pothole,4.6,0.71,img_Jibek_Jolu_Street_008.jpg,Jibek Jolu Street,Oktyabrsky
+42.874662,74.569848,alligator_crack,2.7,0.7,img_Jibek_Jolu_Street_009.jpg,Jibek Jolu Street,Oktyabrsky
+42.874776,74.569688,longitudinal_crack,2.5,0.89,img_Jibek_Jolu_Street_010.jpg,Jibek Jolu Street,Oktyabrsky
+42.87464,74.569863,longitudinal_crack,3.6,0.73,img_Jibek_Jolu_Street_011.jpg,Jibek Jolu Street,Oktyabrsky
+42.874617,74.5697,longitudinal_crack,2.7,0.71,img_Jibek_Jolu_Street_012.jpg,Jibek Jolu Street,Oktyabrsky
+42.874454,74.570042,alligator_crack,4.5,0.82,img_Jibek_Jolu_Street_013.jpg,Jibek Jolu Street,Oktyabrsky
+42.874778,74.569794,longitudinal_crack,3.3,0.67,img_Jibek_Jolu_Street_014.jpg,Jibek Jolu Street,Oktyabrsky
+42.874497,74.569853,pothole,4.8,0.93,img_Jibek_Jolu_Street_015.jpg,Jibek Jolu Street,Oktyabrsky
+42.874448,74.569761,alligator_crack,5.8,0.91,img_Jibek_Jolu_Street_016.jpg,Jibek Jolu Street,Oktyabrsky
+42.874487,74.569658,alligator_crack,5.0,0.85,img_Jibek_Jolu_Street_017.jpg,Jibek Jolu Street,Oktyabrsky
+42.874573,74.569796,alligator_crack,4.0,0.7,img_Jibek_Jolu_Street_018.jpg,Jibek Jolu Street,Oktyabrsky
+42.874665,74.569765,alligator_crack,4.3,0.81,img_Jibek_Jolu_Street_019.jpg,Jibek Jolu Street,Oktyabrsky
+42.874564,74.56999,alligator_crack,4.8,0.95,img_Jibek_Jolu_Street_020.jpg,Jibek Jolu Street,Oktyabrsky
+42.874582,74.570017,longitudinal_crack,3.5,0.93,img_Jibek_Jolu_Street_021.jpg,Jibek Jolu Street,Oktyabrsky
+42.874737,74.56999,pothole,4.5,0.71,img_Jibek_Jolu_Street_022.jpg,Jibek Jolu Street,Oktyabrsky
+42.874549,74.570031,transverse_crack,2.6,0.68,img_Tynystanov_Street_000.jpg,Tynystanov Street,Leninsky
+42.874481,74.569703,longitudinal_crack,2.9,0.72,img_Tynystanov_Street_001.jpg,Tynystanov Street,Leninsky
+42.874549,74.569765,alligator_crack,3.0,0.68,img_Tynystanov_Street_002.jpg,Tynystanov Street,Leninsky
+42.874506,74.569782,longitudinal_crack,3.1,0.75,img_Tynystanov_Street_003.jpg,Tynystanov Street,Leninsky
+42.874542,74.569619,pothole,3.6,0.68,img_Tynystanov_Street_004.jpg,Tynystanov Street,Leninsky
+42.874563,74.569582,alligator_crack,3.8,0.75,img_Tynystanov_Street_005.jpg,Tynystanov Street,Leninsky
+42.874611,74.570046,alligator_crack,3.8,0.65,img_Tynystanov_Street_006.jpg,Tynystanov Street,Leninsky
+42.87448,74.569954,alligator_crack,4.9,0.93,img_Tynystanov_Street_007.jpg,Tynystanov Street,Leninsky
+42.874692,74.569678,longitudinal_crack,2.0,0.78,img_Tynystanov_Street_008.jpg,Tynystanov Street,Leninsky
+42.874512,74.569755,alligator_crack,4.5,0.83,img_Tynystanov_Street_009.jpg,Tynystanov Street,Leninsky
+42.87446,74.569583,longitudinal_crack,2.3,0.85,img_Tynystanov_Street_010.jpg,Tynystanov Street,Leninsky
+42.874749,74.569955,pothole,5.7,0.86,img_Tynystanov_Street_011.jpg,Tynystanov Street,Leninsky
+42.874765,74.569916,longitudinal_crack,2.7,0.84,img_Tynystanov_Street_012.jpg,Tynystanov Street,Leninsky
+42.874576,74.569778,longitudinal_crack,3.1,0.93,img_Panfilov_Street_000.jpg,Panfilov Street,Sverdlovsky
+42.874535,74.569709,alligator_crack,3.9,0.72,img_Panfilov_Street_001.jpg,Panfilov Street,Sverdlovsky
+42.874558,74.569616,pothole,3.4,0.67,img_Panfilov_Street_002.jpg,Panfilov Street,Sverdlovsky
+42.874454,74.569805,longitudinal_crack,2.6,0.94,img_Panfilov_Street_003.jpg,Panfilov Street,Sverdlovsky
+42.874431,74.570016,pothole,4.5,0.68,img_Panfilov_Street_004.jpg,Panfilov Street,Sverdlovsky
+42.874692,74.569922,alligator_crack,4.5,0.86,img_Panfilov_Street_005.jpg,Panfilov Street,Sverdlovsky
+42.87459,74.569828,alligator_crack,3.8,0.92,img_Panfilov_Street_006.jpg,Panfilov Street,Sverdlovsky
+42.874636,74.569599,longitudinal_crack,2.7,0.85,img_Panfilov_Street_007.jpg,Panfilov Street,Sverdlovsky
+42.874451,74.569925,transverse_crack,2.9,0.8,img_Panfilov_Street_008.jpg,Panfilov Street,Sverdlovsky
+42.874421,74.569724,alligator_crack,2.7,0.7,img_Panfilov_Street_009.jpg,Panfilov Street,Sverdlovsky
+42.874591,74.56982,alligator_crack,2.6,0.65,img_Panfilov_Street_010.jpg,Panfilov Street,Sverdlovsky
+42.874712,74.569973,pothole,3.8,0.74,img_Panfilov_Street_011.jpg,Panfilov Street,Sverdlovsky
+42.874718,74.569775,longitudinal_crack,2.0,0.65,img_Panfilov_Street_012.jpg,Panfilov Street,Sverdlovsky
+42.874658,74.569822,alligator_crack,3.4,0.67,img_Panfilov_Street_013.jpg,Panfilov Street,Sverdlovsky
+42.8746,74.56957,alligator_crack,4.3,0.78,img_Panfilov_Street_014.jpg,Panfilov Street,Sverdlovsky
+42.874474,74.569557,pothole,5.4,0.91,img_Panfilov_Street_015.jpg,Panfilov Street,Sverdlovsky
+42.874591,74.569757,pothole,4.8,0.68,img_Panfilov_Street_016.jpg,Panfilov Street,Sverdlovsky
+42.874721,74.569904,transverse_crack,3.1,0.65,img_Panfilov_Street_017.jpg,Panfilov Street,Sverdlovsky
+42.874599,74.570019,transverse_crack,3.1,0.87,img_Panfilov_Street_018.jpg,Panfilov Street,Sverdlovsky
+42.874567,74.569895,alligator_crack,4.8,0.87,img_Panfilov_Street_019.jpg,Panfilov Street,Sverdlovsky
+42.874705,74.570019,pothole,3.9,0.87,img_Panfilov_Street_020.jpg,Panfilov Street,Sverdlovsky
+42.87445,74.570006,longitudinal_crack,2.4,0.73,img_Panfilov_Street_021.jpg,Panfilov Street,Sverdlovsky
+42.874528,74.569633,alligator_crack,3.5,0.71,img_Panfilov_Street_022.jpg,Panfilov Street,Sverdlovsky
+42.874535,74.56997,pothole,3.2,0.72,img_Razzakov_Street_000.jpg,Razzakov Street,Pervomaysky
+42.874684,74.570013,pothole,5.5,0.77,img_Razzakov_Street_001.jpg,Razzakov Street,Pervomaysky
+42.874698,74.569928,pothole,4.8,0.75,img_Razzakov_Street_002.jpg,Razzakov Street,Pervomaysky
+42.874506,74.569557,alligator_crack,4.2,0.94,img_Razzakov_Street_003.jpg,Razzakov Street,Pervomaysky
+42.874764,74.56994,alligator_crack,3.4,0.9,img_Razzakov_Street_004.jpg,Razzakov Street,Pervomaysky
+42.874659,74.569767,longitudinal_crack,3.6,0.83,img_Razzakov_Street_005.jpg,Razzakov Street,Pervomaysky
+42.87472,74.56982,alligator_crack,2.7,0.73,img_Razzakov_Street_006.jpg,Razzakov Street,Pervomaysky
+42.874641,74.569689,transverse_crack,2.9,0.74,img_Razzakov_Street_007.jpg,Razzakov Street,Pervomaysky
+42.874488,74.569692,alligator_crack,4.1,0.8,img_Razzakov_Street_008.jpg,Razzakov Street,Pervomaysky
+42.8745,74.569653,longitudinal_crack,3.6,0.73,img_Razzakov_Street_009.jpg,Razzakov Street,Pervomaysky
+42.87472,74.569812,transverse_crack,3.8,0.91,img_Razzakov_Street_010.jpg,Razzakov Street,Pervomaysky
+42.874718,74.569616,alligator_crack,3.0,0.7,img_Razzakov_Street_011.jpg,Razzakov Street,Pervomaysky
+42.87454,74.569748,pothole,6.0,0.91,img_Razzakov_Street_012.jpg,Razzakov Street,Pervomaysky
+42.874457,74.569635,pothole,3.4,0.75,img_Razzakov_Street_013.jpg,Razzakov Street,Pervomaysky
+42.874509,74.569896,longitudinal_crack,2.2,0.91,img_Razzakov_Street_014.jpg,Razzakov Street,Pervomaysky
+42.874435,74.569707,longitudinal_crack,2.1,0.82,img_Razzakov_Street_015.jpg,Razzakov Street,Pervomaysky
+42.874547,74.569773,pothole,5.6,0.79,img_Isanov_Street_000.jpg,Isanov Street,Oktyabrsky
+42.874663,74.569831,alligator_crack,4.8,0.95,img_Isanov_Street_001.jpg,Isanov Street,Oktyabrsky
+42.874468,74.569565,pothole,5.2,0.76,img_Isanov_Street_002.jpg,Isanov Street,Oktyabrsky
+42.874448,74.569891,alligator_crack,3.5,0.83,img_Isanov_Street_003.jpg,Isanov Street,Oktyabrsky
+42.87447,74.56971,pothole,3.4,0.77,img_Isanov_Street_004.jpg,Isanov Street,Oktyabrsky
+42.874614,74.569627,alligator_crack,3.5,0.84,img_Isanov_Street_005.jpg,Isanov Street,Oktyabrsky
+42.874699,74.569645,alligator_crack,4.2,0.87,img_Isanov_Street_006.jpg,Isanov Street,Oktyabrsky
+42.874679,74.569984,longitudinal_crack,3.4,0.69,img_Isanov_Street_007.jpg,Isanov Street,Oktyabrsky
+42.874506,74.569769,longitudinal_crack,2.9,0.9,img_Isanov_Street_008.jpg,Isanov Street,Oktyabrsky
+42.87466,74.569702,transverse_crack,3.2,0.85,img_Isanov_Street_009.jpg,Isanov Street,Oktyabrsky
+42.874558,74.569601,longitudinal_crack,2.7,0.81,img_Isanov_Street_010.jpg,Isanov Street,Oktyabrsky
+42.874672,74.569854,alligator_crack,2.9,0.79,img_Isanov_Street_011.jpg,Isanov Street,Oktyabrsky
+42.874564,74.569576,pothole,4.4,0.66,img_Isanov_Street_012.jpg,Isanov Street,Oktyabrsky
+42.874615,74.569812,alligator_crack,3.7,0.8,img_Isanov_Street_013.jpg,Isanov Street,Oktyabrsky
+42.874599,74.569696,alligator_crack,3.7,0.79,img_Isanov_Street_014.jpg,Isanov Street,Oktyabrsky
+42.874577,74.569893,pothole,5.6,0.93,img_Isanov_Street_015.jpg,Isanov Street,Oktyabrsky
+42.874511,74.56967,longitudinal_crack,2.5,0.88,img_Isanov_Street_016.jpg,Isanov Street,Oktyabrsky
+42.874532,74.570035,alligator_crack,4.8,0.84,img_Isanov_Street_017.jpg,Isanov Street,Oktyabrsky
+42.874529,74.569938,alligator_crack,3.8,0.69,img_Isanov_Street_018.jpg,Isanov Street,Oktyabrsky
+42.87472,74.56986,longitudinal_crack,2.7,0.9,img_Isanov_Street_019.jpg,Isanov Street,Oktyabrsky
+42.874576,74.569717,transverse_crack,3.0,0.87,img_Kievskaya_Street_000.jpg,Kievskaya Street,Leninsky
+42.874509,74.569979,alligator_crack,5.2,0.86,img_Kievskaya_Street_001.jpg,Kievskaya Street,Leninsky
+42.874663,74.569917,transverse_crack,3.6,0.66,img_Kievskaya_Street_002.jpg,Kievskaya Street,Leninsky
+42.874717,74.56971,alligator_crack,3.5,0.83,img_Kievskaya_Street_003.jpg,Kievskaya Street,Leninsky
+42.874478,74.569965,transverse_crack,3.0,0.67,img_Kievskaya_Street_004.jpg,Kievskaya Street,Leninsky
+42.874603,74.569632,pothole,4.9,0.76,img_Kievskaya_Street_005.jpg,Kievskaya Street,Leninsky
+42.874562,74.569704,transverse_crack,2.5,0.69,img_Kievskaya_Street_006.jpg,Kievskaya Street,Leninsky
+42.874638,74.569729,transverse_crack,3.6,0.9,img_Kievskaya_Street_007.jpg,Kievskaya Street,Leninsky
+42.874548,74.569869,longitudinal_crack,2.2,0.88,img_Kievskaya_Street_008.jpg,Kievskaya Street,Leninsky
+42.874594,74.569823,pothole,5.3,0.81,img_Kievskaya_Street_009.jpg,Kievskaya Street,Leninsky
+42.874561,74.570011,pothole,4.3,0.69,img_Kievskaya_Street_010.jpg,Kievskaya Street,Leninsky
+42.874644,74.569598,alligator_crack,5.1,0.86,img_Gorky_Street_000.jpg,Gorky Street,Sverdlovsky
+42.874609,74.56989,alligator_crack,3.8,0.68,img_Gorky_Street_001.jpg,Gorky Street,Sverdlovsky
+42.874739,74.569968,transverse_crack,3.0,0.76,img_Gorky_Street_002.jpg,Gorky Street,Sverdlovsky
+42.874577,74.570045,transverse_crack,2.5,0.7,img_Gorky_Street_003.jpg,Gorky Street,Sverdlovsky
+42.87472,74.570034,longitudinal_crack,2.2,0.8,img_Gorky_Street_004.jpg,Gorky Street,Sverdlovsky
+42.874501,74.569668,longitudinal_crack,2.3,0.66,img_Gorky_Street_005.jpg,Gorky Street,Sverdlovsky
+42.874728,74.569861,alligator_crack,3.2,0.82,img_Gorky_Street_006.jpg,Gorky Street,Sverdlovsky
+42.874668,74.56958,transverse_crack,5.0,0.93,img_Gorky_Street_007.jpg,Gorky Street,Sverdlovsky
+42.874604,74.56972,alligator_crack,5.7,0.92,img_Gorky_Street_008.jpg,Gorky Street,Sverdlovsky
+42.874636,74.569705,alligator_crack,4.1,0.67,img_Gorky_Street_009.jpg,Gorky Street,Sverdlovsky
+42.874689,74.569841,alligator_crack,4.1,0.67,img_Gorky_Street_010.jpg,Gorky Street,Sverdlovsky
+42.874522,74.569968,transverse_crack,2.6,0.69,img_Gorky_Street_011.jpg,Gorky Street,Sverdlovsky
+42.874757,74.569808,longitudinal_crack,4.4,0.9,img_Gorky_Street_012.jpg,Gorky Street,Sverdlovsky
+42.874469,74.569728,alligator_crack,3.0,0.75,img_Gorky_Street_013.jpg,Gorky Street,Sverdlovsky
+42.874692,74.570041,pothole,5.8,0.84,img_Gorky_Street_014.jpg,Gorky Street,Sverdlovsky
+42.874565,74.570043,longitudinal_crack,2.9,0.72,img_Gorky_Street_015.jpg,Gorky Street,Sverdlovsky
+42.87455,74.569842,longitudinal_crack,3.2,0.95,img_Gorky_Street_016.jpg,Gorky Street,Sverdlovsky
+42.874736,74.569609,transverse_crack,1.9,0.65,img_Gorky_Street_017.jpg,Gorky Street,Sverdlovsky
+42.874567,74.569917,longitudinal_crack,3.1,0.72,img_Gorky_Street_018.jpg,Gorky Street,Sverdlovsky
+42.874695,74.569635,longitudinal_crack,2.2,0.79,img_Gorky_Street_019.jpg,Gorky Street,Sverdlovsky
+42.874428,74.569852,longitudinal_crack,2.5,0.91,img_Gorky_Street_020.jpg,Gorky Street,Sverdlovsky
+42.874675,74.569579,transverse_crack,4.0,0.87,img_Gorky_Street_021.jpg,Gorky Street,Sverdlovsky
+42.874745,74.57002,pothole,3.1,0.69,img_Gorky_Street_022.jpg,Gorky Street,Sverdlovsky
+42.874571,74.569863,alligator_crack,4.5,0.89,img_Togolok_Moldo_Street_000.jpg,Togolok Moldo Street,Pervomaysky
+42.874645,74.569567,pothole,3.6,0.8,img_Togolok_Moldo_Street_001.jpg,Togolok Moldo Street,Pervomaysky
+42.87478,74.569731,longitudinal_crack,3.9,0.92,img_Togolok_Moldo_Street_002.jpg,Togolok Moldo Street,Pervomaysky
+42.874657,74.56976,longitudinal_crack,3.3,0.76,img_Togolok_Moldo_Street_003.jpg,Togolok Moldo Street,Pervomaysky
+42.874585,74.569967,longitudinal_crack,2.3,0.9,img_Togolok_Moldo_Street_004.jpg,Togolok Moldo Street,Pervomaysky
+42.874536,74.569839,pothole,4.0,0.76,img_Togolok_Moldo_Street_005.jpg,Togolok Moldo Street,Pervomaysky
+42.874441,74.569999,alligator_crack,4.7,0.9,img_Togolok_Moldo_Street_006.jpg,Togolok Moldo Street,Pervomaysky
+42.874618,74.569729,longitudinal_crack,1.7,0.68,img_Togolok_Moldo_Street_007.jpg,Togolok Moldo Street,Pervomaysky
+42.874552,74.569874,pothole,3.7,0.85,img_Togolok_Moldo_Street_008.jpg,Togolok Moldo Street,Pervomaysky
+42.874485,74.570001,longitudinal_crack,2.2,0.72,img_Togolok_Moldo_Street_009.jpg,Togolok Moldo Street,Pervomaysky
+42.8747,74.569727,longitudinal_crack,2.7,0.91,img_Togolok_Moldo_Street_010.jpg,Togolok Moldo Street,Pervomaysky

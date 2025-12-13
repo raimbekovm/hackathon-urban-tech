@@ -2,11 +2,35 @@
   "districts": [
     {
       "name": "Sverdlovsky",
-      "defect_count": 138,
-      "defect_density": 39.4,
-      "avg_severity": 6.6,
-      "quality_index": 0,
-      "repair_cost_estimate": 4427995
+      "defect_count": 157,
+      "defect_density": 7.0,
+      "avg_severity": 3.7,
+      "quality_index": 53,
+      "repair_cost_estimate": 3035000
+    },
+    {
+      "name": "Leninsky",
+      "defect_count": 125,
+      "defect_density": 6.0,
+      "avg_severity": 3.8,
+      "quality_index": 58,
+      "repair_cost_estimate": 625000
+    },
+    {
+      "name": "Pervomaysky",
+      "defect_count": 105,
+      "defect_density": 5.8,
+      "avg_severity": 3.7,
+      "quality_index": 59,
+      "repair_cost_estimate": 525000
+    },
+    {
+      "name": "Oktyabrsky",
+      "defect_count": 93,
+      "defect_density": 5.9,
+      "avg_severity": 3.9,
+      "quality_index": 58,
+      "repair_cost_estimate": 725000
     }
   ]
 }
