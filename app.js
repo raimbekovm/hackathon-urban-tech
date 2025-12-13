@@ -1,3 +1,17 @@
+// Get base path for GitHub Pages (if deployed in subdirectory)
+const getBasePath = () => {
+    const path = window.location.pathname;
+    // If path contains repository name (not just /), extract it
+    const match = path.match(/^\/([^\/]+)\//);
+    if (match && match[1] !== '') {
+        return `/${match[1]}`;
+    }
+    return '';
+};
+
+const BASE_PATH = getBasePath();
+console.log('Base path detected:', BASE_PATH || '(root)');
+
 // Initialize map centered on Bishkek
 const map = L.map('map').setView([42.8746, 74.5698], 12);
 
@@ -54,24 +68,41 @@ async function loadData() {
         const timestamp = new Date().getTime();
 
         // Load defects
-        const defectsResponse = await fetch(`../ml/output/defects.csv?t=${timestamp}`);
+        console.log('Fetching defects.csv...');
+        const defectsResponse = await fetch(`${BASE_PATH}/data/defects.csv?t=${timestamp}`);
+        if (!defectsResponse.ok) {
+            throw new Error(`Failed to load defects.csv: ${defectsResponse.status} ${defectsResponse.statusText}`);
+        }
         const defectsText = await defectsResponse.text();
+        console.log('Defects CSV text length:', defectsText.length);
         defectsData = parseCSV(defectsText);
         console.log('Defects loaded:', defectsData.length, defectsData[0]);
 
         // Load worst roads
-        const worstRoadsResponse = await fetch(`../ml/output/worst_roads.json?t=${timestamp}`);
+        console.log('Fetching worst_roads.json...');
+        const worstRoadsResponse = await fetch(`${BASE_PATH}/data/worst_roads.json?t=${timestamp}`);
+        if (!worstRoadsResponse.ok) {
+            throw new Error(`Failed to load worst_roads.json: ${worstRoadsResponse.status}`);
+        }
         const worstRoadsJson = await worstRoadsResponse.json();
         worstRoadsData = worstRoadsJson.worst_roads || worstRoadsJson;
         console.log('Worst roads loaded:', worstRoadsData.length, worstRoadsData[0]);
 
         // Load stats
-        const statsResponse = await fetch(`../ml/output/stats.json?t=${timestamp}`);
+        console.log('Fetching stats.json...');
+        const statsResponse = await fetch(`${BASE_PATH}/data/stats.json?t=${timestamp}`);
+        if (!statsResponse.ok) {
+            throw new Error(`Failed to load stats.json: ${statsResponse.status}`);
+        }
         statsData = await statsResponse.json();
         console.log('Stats loaded:', statsData);
 
         // Load heatmap
-        const heatmapResponse = await fetch(`../ml/output/heatmap.json?t=${timestamp}`);
+        console.log('Fetching heatmap.json...');
+        const heatmapResponse = await fetch(`${BASE_PATH}/data/heatmap.json?t=${timestamp}`);
+        if (!heatmapResponse.ok) {
+            throw new Error(`Failed to load heatmap.json: ${heatmapResponse.status}`);
+        }
         const heatmapJson = await heatmapResponse.json();
         const heatmapData = heatmapJson.heatmap_data || heatmapJson;
         console.log('Heatmap loaded:', heatmapData.length);
@@ -91,22 +122,56 @@ async function loadData() {
 
     } catch (error) {
         console.error('Error loading data:', error);
-        alert('Ошибка загрузки данных: ' + error.message);
+        console.error('Error stack:', error.stack);
+        alert('Ошибка загрузки данных: ' + error.message + '\n\nПроверьте консоль браузера для деталей.');
     }
 }
 
-// Parse CSV
+// Parse CSV - improved parser that handles commas in field values
 function parseCSV(text) {
     const lines = text.trim().split('\n');
-    const headers = lines[0].split(',');
-
+    if (lines.length === 0) return [];
+    
+    const headers = lines[0].split(',').map(h => h.trim());
+    
     return lines.slice(1).map(line => {
-        const values = line.split(',');
+        // Simple CSV parser - split by comma but be careful with quoted fields
+        const values = [];
+        let current = '';
+        let inQuotes = false;
+        
+        for (let i = 0; i < line.length; i++) {
+            const char = line[i];
+            const nextChar = line[i + 1];
+            
+            if (char === '"') {
+                if (inQuotes && nextChar === '"') {
+                    // Escaped quote
+                    current += '"';
+                    i++; // Skip next quote
+                } else {
+                    // Toggle quote state
+                    inQuotes = !inQuotes;
+                }
+            } else if (char === ',' && !inQuotes) {
+                // End of field
+                values.push(current.trim());
+                current = '';
+            } else {
+                current += char;
+            }
+        }
+        // Add last field
+        values.push(current.trim());
+        
         const obj = {};
         headers.forEach((header, i) => {
-            obj[header.trim()] = values[i]?.trim();
+            obj[header] = values[i] || '';
         });
         return obj;
+    }).filter(row => {
+        // Filter out empty rows
+        return row[headers[0]] && row[headers[0]] !== '';
     });
 }
 
