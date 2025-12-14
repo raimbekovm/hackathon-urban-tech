@@ -1,46 +1,46 @@
 lat,lon,defect_type,severity,confidence,image_path,street_name,district
-42.879969,74.607698,longitudinal_crack,2.4,0.97,ml/data/urban_tech_annotated/images/Screenshot-2025-12-12-at-21_37_18_png.rf.de997b6de13fbcbf415d3a7976f7a888.jpg,Эркиндик бульвар,Первомайский район
-42.898348,74.577068,pothole,4.7,0.86,ml/data/urban_tech_annotated/images/Screenshot-2025-12-12-at-21_43_37_png.rf.4e8d01136bc94bd9013c4f8d1210800f.jpg,Тулебердиева улица,Колме
-42.839956,74.580523,longitudinal_crack,1.9,0.94,ml/data/urban_tech_annotated/images/Screenshot-2025-12-12-at-21_44_09_png.rf.56ad1134d65d4f959a270ac7013343ab.jpg,Ажыбек Баатыра улица,Джал-23 микрорайон
-42.875303,74.639004,pothole,7.0,0.93,ml/data/urban_tech_annotated/images/Screenshot-2025-12-12-at-21_45_01_png.rf.95a4b206c4e83a564f965af2e45111fd.jpg,Unknown Street,Свердловский район
-42.853196,74.533189,pothole,5.0,0.98,ml/data/urban_tech_annotated/images/Screenshot-2025-12-12-at-21_45_48_png.rf.38310b8b8139d7e35ae97b11661312d3.jpg,Фрунзе переулок,Ак-Орго
-42.861428,74.600769,pothole,1.6,0.96,ml/data/urban_tech_annotated/images/Screenshot-2025-12-12-at-21_47_15_png.rf.6ce50f1e59a477b3eeba7929ac302a8f.jpg,Льва Толстого улица,Первомайский район
-42.924788,74.603215,alligator_crack,2.8,0.85,ml/data/urban_tech_annotated/images/Screenshot-2025-12-12-at-21_50_11_png.rf.a1a26746be979e3ba09767e627151e97.jpg,Новая улица,Unknown District
-42.837171,74.582203,alligator_crack,1.4,0.95,ml/data/urban_tech_annotated/images/Screenshot-2025-12-12-at-21_50_32_png.rf.6c466408101ff75df840b612ad6f6358.jpg,Ажыбек Баатыра улица,Джал-23 микрорайон
-42.880306,74.651343,alligator_crack,9.0,0.92,ml/data/urban_tech_annotated/images/Screenshot-2025-12-12-at-21_51_32_png.rf.c1c52be4cd7fa9212cc9139032aff584.jpg,Саратовская улица,Свердловский район
-42.85387,74.548994,alligator_crack,1.6,0.97,ml/data/urban_tech_annotated/images/Screenshot-2025-12-12-at-21_52_23_png.rf.608e80d3c6426d45264c53b524f4d4d0.jpg,Сосновый переулок,Пишпек
-42.878168,74.616029,alligator_crack,7.2,0.9,ml/data/urban_tech_annotated/images/Screenshot-2025-12-12-at-21_52_55_png.rf.38381fd36ec957787a845a6d98104858.jpg,Ибраимова улица,Свердловский район
-42.915542,74.591231,alligator_crack,1.5,0.89,ml/data/urban_tech_annotated/images/Screenshot-2025-12-12-at-21_53_56_png.rf.2b450383de28d854fbddaec43235f009.jpg,Ак-Босого,Ак-Босого
-42.830235,74.572895,alligator_crack,1.1,0.85,ml/data/urban_tech_annotated/images/Screenshot-2025-12-12-at-21_55_38_png.rf.9e34752645e3e4b581bb34e537d00dbb.jpg,Джал-23 микрорайон,Джал-23 микрорайон
-42.864867,74.641579,longitudinal_crack,1.0,0.97,ml/data/urban_tech_annotated/images/Screenshot-2025-12-12-at-21_56_48_png.rf.90e8202925b73fef63cdd694ef9ee5cd.jpg,Октябрьская улица,Октябрьский район
-42.865338,74.554965,longitudinal_crack,7.2,0.87,ml/data/urban_tech_annotated/images/Screenshot-2025-12-12-at-21_56_54_png.rf.63ac873159d2ff3ed68760d1d11b7d2b.jpg,Льва Толстого улица,Кызыл-Аскер
-42.87576,74.61051,longitudinal_crack,1.3,0.93,ml/data/urban_tech_annotated/images/Screenshot-2025-12-12-at-21_57_02_png.rf.0c7415d7b7264e0cab2be6708e214f82.jpg,Чуй проспект,Первомайский район
-42.906565,74.581204,longitudinal_crack,1.5,0.89,ml/data/urban_tech_annotated/images/Screenshot-2025-12-12-at-21_58_00_png.rf.1b3e71842e496a1ce07f16fec1dd9462.jpg,Ижевский переулок,Колме
-42.835838,74.576057,longitudinal_crack,1.8,0.9,ml/data/urban_tech_annotated/images/Screenshot-2025-12-12-at-21_58_24_png.rf.8d0cd2f50125860165abbb82f2e057b3.jpg,Минжилкиева улица,Джал-23 микрорайон
-42.875698,74.643423,longitudinal_crack,2.2,0.86,ml/data/urban_tech_annotated/images/Screenshot-2025-12-12-at-21_58_37_png.rf.7a762892318d9ae6887014024026a19b.jpg,Чуй проспект,Свердловский район
-42.867081,74.544429,longitudinal_crack,1.1,0.91,ml/data/urban_tech_annotated/images/Screenshot-2025-12-12-at-21_59_36_png.rf.79148968eebf6009d6a51b6494bb73cd.jpg,2-я Товарная улица,Кызыл-Аскер
-42.888432,74.610633,longitudinal_crack,1.0,0.92,ml/data/urban_tech_annotated/images/Screenshot-2025-12-12-at-22_00_19_png.rf.824d565af5519b4e398a1ddad1d18638.jpg,Абдрахманова Юсупа улица,Свердловский район
-42.896708,74.592403,pothole,3.6,0.91,ml/data/urban_tech_annotated/images/Screenshot-2025-12-12-at-22_01_31_png.rf.7c9515ae14536400171162e75aaa1eb8.jpg,Кок-Сай улица,Колме
-42.828517,74.566446,pothole,9.1,0.93,ml/data/urban_tech_annotated/images/Screenshot-2025-12-12-at-22_01_47_png.rf.9e66ba115cfef13fcf593855ff61c70c.jpg,Арча-Бешик,Арча-Бешик
-42.880883,74.647218,longitudinal_crack,2.5,0.92,ml/data/urban_tech_annotated/images/Screenshot-2025-12-12-at-22_02_00_png.rf.27cff3075d16f038d8e2afb62058e563.jpg,Пионерская улица,Свердловский район
-42.874529,74.527042,pothole,4.0,0.85,ml/data/urban_tech_annotated/images/Screenshot-2025-12-12-at-22_02_15_png.rf.057620dc127733252c3346d4514053f2.jpg,проспект Дэн Сяопина,Газ городок
-42.880702,74.617639,longitudinal_crack,2.8,0.86,ml/data/urban_tech_annotated/images/Screenshot-2025-12-12-at-22_02_45_png.rf.16777d2aeeae4596f7b33ae8f7721a10.jpg,Фрунзе Михаила улица,Свердловский район
-42.913811,74.602202,pothole,9.1,0.91,ml/data/urban_tech_annotated/images/Screenshot-2025-12-12-at-22_02_59_png.rf.998a517d3516a8515a6a2c221ff673b3.jpg,Киргизская улица,Свердловский район
-42.833779,74.575339,transverse_crack,1.4,0.94,ml/data/urban_tech_annotated/images/Screenshot-2025-12-12-at-22_05_47_png.rf.0a6ed45eaf27ef0d2976277d7d296d01.jpg,Минжилкиева улица,Джал-23 микрорайон
-42.863018,74.637626,longitudinal_crack,1.7,0.86,ml/data/urban_tech_annotated/images/Screenshot-2025-12-12-at-22_08_02_png.rf.ce0d05da9904144c0a20dc8244514bc6.jpg,Unknown Street,Октябрьский район
-42.854326,74.52696,longitudinal_crack,2.2,0.91,ml/data/urban_tech_annotated/images/Screenshot-2025-12-12-at-22_08_17_png.rf.6a367da520c92d8e17351529546e1eb5.jpg,Кырк кыз улица,Ак-Орго ж/м
-42.871808,74.59856,alligator_crack,1.4,0.9,ml/data/urban_tech_annotated/images/Screenshot-2025-12-12-at-22_08_29_png.rf.63d617a92d0d7b9f8bd92325bc045608.jpg,улица Тоголок Молдо,Первомайский район
-42.923616,74.601584,transverse_crack,2.1,0.88,ml/data/urban_tech_annotated/images/Screenshot-2025-12-12-at-22_10_52_png.rf.eeba80727939fc5f5780fdc6170a14f1.jpg,Киргизская улица,Первомайский район
-42.827504,74.566213,pothole,7.7,0.93,ml/data/urban_tech_annotated/images/Screenshot-2025-12-12-at-22_10_59_png.rf.21a47e8365d30cf78bf33d06f6ec64ed.jpg,Арча-Бешик,Арча-Бешик
-42.866989,74.649214,alligator_crack,1.9,0.94,ml/data/urban_tech_annotated/images/Screenshot-2025-12-12-at-22_11_11_png.rf.22264ac682b70f7a8c043ae1e038aa64.jpg,Путепроводная улица,Октябрьский район
-42.854568,74.528849,alligator_crack,7.5,0.94,ml/data/urban_tech_annotated/images/Screenshot-2025-12-12-at-22_11_42_png.rf.ed082bcb16582fd3409f12eac0d907da.jpg,Ак-Чолмок улица,Ак-Орго ж/м
-42.867888,74.620338,longitudinal_crack,1.3,0.87,ml/data/urban_tech_annotated/images/Screenshot-2025-12-12-at-22_12_11_png.rf.d25b17d957a706bfec8df1d43579f1d8.jpg,Чокморова Суймонкула улица,Свердловский район
-42.924843,74.584559,alligator_crack,1.9,0.98,ml/data/urban_tech_annotated/images/Screenshot-2025-12-12-at-22_12_25_png.rf.b8c40ae4ccb26f31e6e2c6e3653c4993.jpg,Чуй 15 улица,Ак-Босого
-42.829219,74.57216,alligator_crack,2.3,0.96,ml/data/urban_tech_annotated/images/Screenshot-2025-12-12-at-22_12_50_png.rf.7b74812481756b87ef3a612e26bff64a.jpg,Масалиева Абсамата проспект,Джал-23 микрорайон
-42.858212,74.639874,transverse_crack,2.2,0.88,ml/data/urban_tech_annotated/images/Screenshot-2025-12-12-at-22_13_30_png.rf.f972b4f041946a23640a27c0c79ae1c8.jpg,Анкара улица,Октябрьский район
-42.870272,74.547269,alligator_crack,8.6,0.9,ml/data/urban_tech_annotated/images/Screenshot-2025-12-12-at-21_53_25_png.rf.556655d102e355fc528a9f86930c376f.jpg,Джамгерчинова улица,Кызыл-Аскер
-42.862235,74.603917,longitudinal_crack,8.5,0.87,ml/data/urban_tech_annotated/images/Screenshot-2025-12-12-at-21_57_49_png.rf.8a953444d02d7e58e1c1b67956a6c437.jpg,Игембердиева Зыфара улица,Первомайский район
-42.905914,74.577272,alligator_crack,1.3,0.87,ml/data/urban_tech_annotated/images/Screenshot-2025-12-12-at-22_04_42_png.rf.6ae7467899a785c91b0abb85998ef1d3.jpg,Боталиева улица,Колме
-42.831348,74.571282,longitudinal_crack,1.0,0.92,ml/data/urban_tech_annotated/images/Screenshot-2025-12-12-at-22_08_50_png.rf.b7146dc165a31f680e0ed1cf99d27696.jpg,Ажыбек Баатыра улица,Джал-23 микрорайон
-42.856397,74.640085,alligator_crack,1.2,0.87,ml/data/urban_tech_annotated/images/Screenshot-2025-12-12-at-22_10_22_png.rf.1a0bdd25b0833998682ecdcdb1cce497.jpg,Анкара улица,Октябрьский район
-42.868432,74.531572,pothole,3.5,0.92,ml/data/urban_tech_annotated/images/Screenshot-2025-12-12-at-22_11_22_png.rf.f551bb2925c1834d470668420ed68119.jpg,Гатчинский переулок,Кызыл-Аскер
+42.879799,74.62352,longitudinal_crack,2.4,0.92,ml/data/urban_tech_annotated/images/Screenshot-2025-12-12-at-21_37_18_png.rf.de997b6de13fbcbf415d3a7976f7a888.jpg,Суюмбаева Ахматбека улица,Свердловский район
+42.899443,74.603494,pothole,4.7,0.87,ml/data/urban_tech_annotated/images/Screenshot-2025-12-12-at-21_43_37_png.rf.4e8d01136bc94bd9013c4f8d1210800f.jpg,Загородная улица,Свердловский район
+42.828986,74.573997,longitudinal_crack,1.9,0.96,ml/data/urban_tech_annotated/images/Screenshot-2025-12-12-at-21_44_09_png.rf.56ad1134d65d4f959a270ac7013343ab.jpg,Арча-Бешик,Арча-Бешик
+42.86349,74.633973,pothole,2.5,0.92,ml/data/urban_tech_annotated/images/Screenshot-2025-12-12-at-21_45_01_png.rf.95a4b206c4e83a564f965af2e45111fd.jpg,7 Апреля улица,Октябрьский район
+42.852227,74.535139,pothole,5.0,0.92,ml/data/urban_tech_annotated/images/Screenshot-2025-12-12-at-21_45_48_png.rf.38310b8b8139d7e35ae97b11661312d3.jpg,Гагарина Юрия улица,Ак-Орго
+42.8893,74.600755,pothole,7.0,0.96,ml/data/urban_tech_annotated/images/Screenshot-2025-12-12-at-21_47_15_png.rf.6ce50f1e59a477b3eeba7929ac302a8f.jpg,Куренкеева Мураталы улица,Свердловский район
+42.905807,74.593807,alligator_crack,2.8,0.97,ml/data/urban_tech_annotated/images/Screenshot-2025-12-12-at-21_50_11_png.rf.a1a26746be979e3ba09767e627151e97.jpg,Кокчетавская улица,Первомайский район
+42.829494,74.593024,alligator_crack,1.4,0.97,ml/data/urban_tech_annotated/images/Screenshot-2025-12-12-at-21_50_32_png.rf.6c466408101ff75df840b612ad6f6358.jpg,Масалиева Абсамата проспект,Октябрьский район
+42.859122,74.638192,alligator_crack,1.0,0.89,ml/data/urban_tech_annotated/images/Screenshot-2025-12-12-at-21_51_32_png.rf.c1c52be4cd7fa9212cc9139032aff584.jpg,Кийизбаевой Сайры улица,Октябрьский район
+42.870195,74.552498,alligator_crack,1.6,0.9,ml/data/urban_tech_annotated/images/Screenshot-2025-12-12-at-21_52_23_png.rf.608e80d3c6426d45264c53b524f4d4d0.jpg,Джамгерчинова улица,Кызыл-Аскер
+42.886092,74.624918,alligator_crack,2.0,0.92,ml/data/urban_tech_annotated/images/Screenshot-2025-12-12-at-21_52_55_png.rf.38381fd36ec957787a845a6d98104858.jpg,Жибек Жолу проспект,Свердловский район
+42.911814,74.58924,alligator_crack,9.1,0.95,ml/data/urban_tech_annotated/images/Screenshot-2025-12-12-at-21_53_56_png.rf.2b450383de28d854fbddaec43235f009.jpg,Ак-Босого,Ак-Босого
+42.830069,74.566983,alligator_crack,8.4,0.88,ml/data/urban_tech_annotated/images/Screenshot-2025-12-12-at-21_55_38_png.rf.9e34752645e3e4b581bb34e537d00dbb.jpg,Масалиева Абсамата проспект,Джал-23 микрорайон
+42.87516,74.626954,longitudinal_crack,1.0,0.92,ml/data/urban_tech_annotated/images/Screenshot-2025-12-12-at-21_56_48_png.rf.90e8202925b73fef63cdd694ef9ee5cd.jpg,Чуй проспект,Свердловский район
+42.857214,74.552433,longitudinal_crack,8.6,0.87,ml/data/urban_tech_annotated/images/Screenshot-2025-12-12-at-21_56_54_png.rf.63ac873159d2ff3ed68760d1d11b7d2b.jpg,Термечикова Шаршена улица,Пишпек
+42.868978,74.611633,longitudinal_crack,1.3,0.91,ml/data/urban_tech_annotated/images/Screenshot-2025-12-12-at-21_57_02_png.rf.0c7415d7b7264e0cab2be6708e214f82.jpg,Московская улица,Свердловский район
+42.902717,74.590312,longitudinal_crack,1.5,0.93,ml/data/urban_tech_annotated/images/Screenshot-2025-12-12-at-21_58_00_png.rf.1b3e71842e496a1ce07f16fec1dd9462.jpg,Профессора Зимы улица,Первомайский район
+42.841203,74.574263,longitudinal_crack,1.8,0.96,ml/data/urban_tech_annotated/images/Screenshot-2025-12-12-at-21_58_24_png.rf.8d0cd2f50125860165abbb82f2e057b3.jpg,Бакаева улица,Джал-23 микрорайон
+42.876873,74.627568,longitudinal_crack,2.2,0.88,ml/data/urban_tech_annotated/images/Screenshot-2025-12-12-at-21_58_37_png.rf.7a762892318d9ae6887014024026a19b.jpg,Ереванская улица,Свердловский район
+42.87498,74.550603,longitudinal_crack,1.1,0.91,ml/data/urban_tech_annotated/images/Screenshot-2025-12-12-at-21_59_36_png.rf.79148968eebf6009d6a51b6494bb73cd.jpg,Казакова улица,Ленинский район
+42.887347,74.605273,longitudinal_crack,1.0,0.9,ml/data/urban_tech_annotated/images/Screenshot-2025-12-12-at-22_00_19_png.rf.824d565af5519b4e398a1ddad1d18638.jpg,Пролетарская улица,Свердловский район
+42.911617,74.600857,pothole,3.6,0.89,ml/data/urban_tech_annotated/images/Screenshot-2025-12-12-at-22_01_31_png.rf.7c9515ae14536400171162e75aaa1eb8.jpg,Саадаева улица,Свердловский район
+42.844037,74.594224,pothole,4.6,0.92,ml/data/urban_tech_annotated/images/Screenshot-2025-12-12-at-22_01_47_png.rf.9e66ba115cfef13fcf593855ff61c70c.jpg,Ахунбаева Исы улица,Первомайский район
+42.877638,74.636644,longitudinal_crack,2.5,0.93,ml/data/urban_tech_annotated/images/Screenshot-2025-12-12-at-22_02_00_png.rf.27cff3075d16f038d8e2afb62058e563.jpg,Огонбаева Атая улица,Свердловский район
+42.864966,74.5498,pothole,4.0,0.89,ml/data/urban_tech_annotated/images/Screenshot-2025-12-12-at-22_02_15_png.rf.057620dc127733252c3346d4514053f2.jpg,Льва Толстого улица,Кызыл-Аскер
+42.886465,74.623959,longitudinal_crack,2.8,0.93,ml/data/urban_tech_annotated/images/Screenshot-2025-12-12-at-22_02_45_png.rf.16777d2aeeae4596f7b33ae8f7721a10.jpg,Школьная улица,Свердловский район
+42.908587,74.593642,pothole,1.9,0.93,ml/data/urban_tech_annotated/images/Screenshot-2025-12-12-at-22_02_59_png.rf.998a517d3516a8515a6a2c221ff673b3.jpg,Можайского улица,Первомайский район
+42.841143,74.594887,transverse_crack,7.9,0.9,ml/data/urban_tech_annotated/images/Screenshot-2025-12-12-at-22_05_47_png.rf.0a6ed45eaf27ef0d2976277d7d296d01.jpg,Таш-Кумырская улица,Октябрьский район
+42.857757,74.635808,longitudinal_crack,1.7,0.97,ml/data/urban_tech_annotated/images/Screenshot-2025-12-12-at-22_08_02_png.rf.ce0d05da9904144c0a20dc8244514bc6.jpg,7 Апреля улица,Октябрьский район
+42.874561,74.525255,longitudinal_crack,7.9,0.95,ml/data/urban_tech_annotated/images/Screenshot-2025-12-12-at-22_08_17_png.rf.6a367da520c92d8e17351529546e1eb5.jpg,проспект Дэн Сяопина,Газ городок
+42.885868,74.604608,alligator_crack,7.8,0.9,ml/data/urban_tech_annotated/images/Screenshot-2025-12-12-at-22_08_29_png.rf.63d617a92d0d7b9f8bd92325bc045608.jpg,Мичурина Ивана улица,Свердловский район
+42.917963,74.588184,transverse_crack,2.1,0.94,ml/data/urban_tech_annotated/images/Screenshot-2025-12-12-at-22_10_52_png.rf.eeba80727939fc5f5780fdc6170a14f1.jpg,Чуй 52 улица,Ак-Босого
+42.843136,74.594565,pothole,3.5,0.95,ml/data/urban_tech_annotated/images/Screenshot-2025-12-12-at-22_10_59_png.rf.21a47e8365d30cf78bf33d06f6ec64ed.jpg,Ахунбаева Исы улица,Октябрьский район
+42.879162,74.626994,alligator_crack,1.9,0.92,ml/data/urban_tech_annotated/images/Screenshot-2025-12-12-at-22_11_11_png.rf.22264ac682b70f7a8c043ae1e038aa64.jpg,Абдумомунова Токтоболота улица,Свердловский район
+42.860727,74.54739,alligator_crack,1.3,0.92,ml/data/urban_tech_annotated/images/Screenshot-2025-12-12-at-22_11_42_png.rf.ed082bcb16582fd3409f12eac0d907da.jpg,Ломоносова улица,Пишпек
+42.879392,74.614696,longitudinal_crack,8.5,0.88,ml/data/urban_tech_annotated/images/Screenshot-2025-12-12-at-22_12_11_png.rf.d25b17d957a706bfec8df1d43579f1d8.jpg,Шопокова улица,Свердловский район
+42.90823,74.577931,alligator_crack,1.9,0.92,ml/data/urban_tech_annotated/images/Screenshot-2025-12-12-at-22_12_25_png.rf.b8c40ae4ccb26f31e6e2c6e3653c4993.jpg,Можайского улица,Колме
+42.835867,74.565756,alligator_crack,2.3,0.95,ml/data/urban_tech_annotated/images/Screenshot-2025-12-12-at-22_12_50_png.rf.7b74812481756b87ef3a612e26bff64a.jpg,Тыналиева улица,Джал-23 микрорайон
+42.87182,74.647654,transverse_crack,2.2,0.89,ml/data/urban_tech_annotated/images/Screenshot-2025-12-12-at-22_13_30_png.rf.f972b4f041946a23640a27c0c79ae1c8.jpg,Винсовхоз Ала-Тоо улица,Свердловский район
+42.851601,74.533437,alligator_crack,1.1,0.93,ml/data/urban_tech_annotated/images/Screenshot-2025-12-12-at-21_53_25_png.rf.556655d102e355fc528a9f86930c376f.jpg,Ак-Орго,Ак-Орго
+42.86317,74.626349,longitudinal_crack,2.0,0.91,ml/data/urban_tech_annotated/images/Screenshot-2025-12-12-at-21_57_49_png.rf.8a953444d02d7e58e1c1b67956a6c437.jpg,Карадарьинская улица,Октябрьский район
+42.914783,74.602701,alligator_crack,1.3,0.9,ml/data/urban_tech_annotated/images/Screenshot-2025-12-12-at-22_04_42_png.rf.6ae7467899a785c91b0abb85998ef1d3.jpg,Новая улица,Unknown District
+42.817198,74.565918,longitudinal_crack,1.0,0.97,ml/data/urban_tech_annotated/images/Screenshot-2025-12-12-at-22_08_50_png.rf.b7146dc165a31f680e0ed1cf99d27696.jpg,Чон-Арык улица,Ленинский район
+42.873935,74.651323,alligator_crack,8.3,0.92,ml/data/urban_tech_annotated/images/Screenshot-2025-12-12-at-22_10_22_png.rf.1a0bdd25b0833998682ecdcdb1cce497.jpg,Чуй проспект,Свердловский район
+42.870807,74.541571,pothole,8.8,0.88,ml/data/urban_tech_annotated/images/Screenshot-2025-12-12-at-22_11_22_png.rf.f551bb2925c1834d470668420ed68119.jpg,Почтовый переулок,Кызыл-Аскер

@@ -300,8 +300,9 @@ function createMarkers() {
                 <div class="defect-image">
                     <img src="${BASE_PATH}/${defect.image_path}"
                          alt="Defect photo"
-                         style="width: 100%; max-width: 300px; border-radius: 8px; margin-bottom: 12px;"
-                         onerror="this.style.display='none'">
+                         style="width: 100%; max-width: 300px; border-radius: 8px; margin-bottom: 12px; cursor: pointer;"
+                         onerror="this.style.display='none'"
+                         onclick="openImageModal('${BASE_PATH}/${defect.image_path}')">
                 </div>
                 <div class="defect-details">
                     <div><strong>Улица:</strong> ${defect.street_name || 'Unknown Street'}</div>
@@ -425,8 +426,9 @@ function showCriticalDefects() {
                 <div class="defect-image">
                     <img src="${BASE_PATH}/${defect.image_path}"
                          alt="Defect photo"
-                         style="width: 100%; max-width: 300px; border-radius: 8px; margin-bottom: 12px;"
-                         onerror="this.style.display='none'">
+                         style="width: 100%; max-width: 300px; border-radius: 8px; margin-bottom: 12px; cursor: pointer;"
+                         onerror="this.style.display='none'"
+                         onclick="openImageModal('${BASE_PATH}/${defect.image_path}')">
                 </div>
                 <div class="defect-details">
                     <div><strong>Улица:</strong> ${defect.street_name || 'Unknown Street'}</div>
@@ -494,6 +496,34 @@ document.getElementById('styleSatellite').addEventListener('click', function() {
 
     document.querySelectorAll('.style-btn').forEach(btn => btn.classList.remove('active'));
     this.classList.add('active');
+});
+
+// Image modal functions
+function openImageModal(imagePath) {
+    const modal = document.getElementById('imageModal');
+    const modalImage = document.getElementById('modalImage');
+    modalImage.src = imagePath;
+    modal.style.display = 'flex';
+}
+
+function closeImageModal() {
+    const modal = document.getElementById('imageModal');
+    modal.style.display = 'none';
+}
+
+// Close modal on outside click
+window.addEventListener('click', function(event) {
+    const modal = document.getElementById('imageModal');
+    if (event.target === modal) {
+        closeImageModal();
+    }
+});
+
+// Close modal on Escape key
+window.addEventListener('keydown', function(event) {
+    if (event.key === 'Escape') {
+        closeImageModal();
+    }
 });
 
 // Load data on page load
