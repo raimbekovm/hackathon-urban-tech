@@ -308,7 +308,7 @@ function createMarkers() {
                     <div><strong>Район:</strong> ${defect.district || 'Unknown'}</div>
                     <div><strong>Серьезность:</strong> ${severity.toFixed(1)}/10</div>
                     <div><strong>Уверенность:</strong> ${(parseFloat(defect.confidence) * 100).toFixed(0)}%</div>
-                    <div><strong>Стоимость:</strong> ~${repairCost.toLocaleString()} KGS</div>
+                    <div><strong>Стоимость ремонта:</strong> ~${repairCost.toLocaleString()} KGS</div>
                 </div>
                 <div class="severity-bar">
                     <div class="severity-fill" style="width: ${severity * 10}%"></div>
