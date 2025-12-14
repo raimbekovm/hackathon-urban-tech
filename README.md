@@ -188,6 +188,13 @@ quality = 100 - (defects_per_km × 5 + avg_severity × 3)
 
 This project was developed for the Urban Tech Hackathon 2025.
 
+## Contact
+
+**Murat Raimbekov**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/murat-raimbekov)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raimbekovm)
+
 ## 🙏 Acknowledgments
 
 - RDD2022 Dataset for training data
