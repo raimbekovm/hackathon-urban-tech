@@ -19,6 +19,11 @@ ml/data/bishkek_roads/*.jpeg
 ml/data/raw/
 ml/data/processed/
 
+# Full dataset (too large, only portfolio samples are pushed)
+ml/data/urban_tech/train/
+ml/data/urban_tech/test/
+ml/data/urban_tech/valid/
+
 # YOLOv8 downloads
 yolov8n.pt
 

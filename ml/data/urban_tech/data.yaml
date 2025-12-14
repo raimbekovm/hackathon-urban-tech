@@ -1,0 +1,18 @@
+path: data/urban_tech
+train: train/images
+val: test/images  # Используем test как validation, так как нет отдельной папки valid
+test: test/images
+
+nc: 4
+names:
+  0: longitudinal_crack
+  1: transverse_crack
+  2: alligator_crack
+  3: pothole
+
+roboflow:
+  workspace: cvrm
+  project: urban_tech
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/cvrm/urban_tech/dataset/1
