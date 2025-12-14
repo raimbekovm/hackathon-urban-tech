@@ -1,7 +1,7 @@
 {
   "total_stats": {
-    "total_defects": 9,
-    "critical_defects": 0,
-    "total_repair_cost": 129436
+    "total_defects": 45,
+    "critical_defects": 10,
+    "total_repair_cost": 983286
   }
 }
