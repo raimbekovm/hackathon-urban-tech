@@ -531,21 +531,13 @@ loadData();
 
 // ================ PHOTO UPLOAD FEATURE ================
 
-// Demo photos configuration (pre-annotated images)
-const DEMO_PHOTOS = [
-    {
-        name: 'demo_diverse_defects.jpg',
-        annotatedPath: 'ml/data/demo_annotated/demo_diverse_defects.jpg',
-        defectsCount: 5,
-        classes: ['pothole', 'transverse_crack', 'alligator_crack']
-    },
-    {
-        name: 'demo_many_potholes.jpg',
-        annotatedPath: 'ml/data/demo_annotated/demo_many_potholes.jpg',
-        defectsCount: 17,
-        classes: ['pothole']
-    }
-];
+// Demo photo (pre-annotated image with diverse defect types)
+const DEMO_PHOTO = {
+    name: 'demo_diverse_defects.jpg',
+    annotatedPath: 'ml/data/demo_annotated/demo_diverse_defects.jpg',
+    defectsCount: 5,
+    classes: ['pothole', 'transverse_crack', 'alligator_crack']
+};
 
 // Upload state
 let uploadState = {
@@ -565,9 +557,8 @@ document.getElementById('photoUpload').addEventListener('change', function(event
 
     // Simulate AI processing (2 seconds)
     setTimeout(() => {
-        // Randomly select one of the demo photos
-        const demoPhoto = DEMO_PHOTOS[Math.floor(Math.random() * DEMO_PHOTOS.length)];
-        uploadState.selectedPhoto = demoPhoto;
+        // Use the demo photo with diverse defect classes
+        uploadState.selectedPhoto = DEMO_PHOTO;
 
         // Hide processing modal
         document.getElementById('processingModal').style.display = 'none';
