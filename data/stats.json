@@ -1,19 +1,7 @@
 {
   "total_stats": {
-    "total_defects": 480,
+    "total_defects": 222,
     "critical_defects": 0,
-    "total_repair_cost": 4910000,
-    "priority_roads_count": 0,
-    "defects_by_type": {
-      "pothole": 118,
-      "longitudinal_crack": 124,
-      "transverse_crack": 97,
-      "alligator_crack": 141
-    },
-    "defects_by_severity": {
-      "high": 0,
-      "medium": 191,
-      "low": 289
-    }
+    "total_repair_cost": 3028127
   }
 }

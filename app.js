@@ -297,12 +297,17 @@ function createMarkers() {
         const popupContent = `
             <div class="defect-popup">
                 <h4>${DEFECT_NAMES[defect.defect_type] || defect.defect_type}</h4>
+                <div class="defect-image">
+                    <img src="${BASE_PATH}/${defect.image_path}"
+                         alt="Defect photo"
+                         style="width: 100%; max-width: 300px; border-radius: 8px; margin-bottom: 12px;"
+                         onerror="this.style.display='none'">
+                </div>
                 <div class="defect-details">
                     <div><strong>Улица:</strong> ${defect.street_name || 'Unknown Street'}</div>
                     <div><strong>Район:</strong> ${defect.district || 'Unknown'}</div>
                     <div><strong>Серьезность:</strong> ${severity.toFixed(1)}/10</div>
                     <div><strong>Уверенность:</strong> ${(parseFloat(defect.confidence) * 100).toFixed(0)}%</div>
-                    <div><strong>Фото:</strong> ${defect.image_path}</div>
                     <div><strong>Стоимость:</strong> ~${repairCost.toLocaleString()} KGS</div>
                 </div>
                 <div class="severity-bar">
@@ -417,6 +422,12 @@ function showCriticalDefects() {
         const popupContent = `
             <div class="defect-popup">
                 <h4>⚠️ ${DEFECT_NAMES[defect.defect_type] || defect.defect_type}</h4>
+                <div class="defect-image">
+                    <img src="${BASE_PATH}/${defect.image_path}"
+                         alt="Defect photo"
+                         style="width: 100%; max-width: 300px; border-radius: 8px; margin-bottom: 12px;"
+                         onerror="this.style.display='none'">
+                </div>
                 <div class="defect-details">
                     <div><strong>Улица:</strong> ${defect.street_name || 'Unknown Street'}</div>
                     <div><strong>Район:</strong> ${defect.district || 'Unknown'}</div>
